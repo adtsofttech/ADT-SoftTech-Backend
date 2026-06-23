@@ -1,0 +1,17 @@
+[
+  {
+    "id": "8bfae661-f423-4b95-937f-01250b44c62c",
+    "email": "adtsofttech@gmail.com",
+    "contentType": "service",
+    "slug": "data-analytics-business-intelligence",
+    "title": "Data Analytics & Business Intelligence",
+    "sourcePage": "http://localhost:5173/services/data-analytics-business-intelligence",
+    "firstTouchPage": "http://localhost:5173/services/data-analytics-business-intelligence",
+    "latestTouchPage": "http://localhost:5173/services/data-analytics-business-intelligence",
+    "referrer": "http://localhost:5173/about",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "createdAt": "2026-06-22T08:05:47.380Z",
+    "updatedAt": "2026-06-22T08:05:47.380Z"
+  }
+]

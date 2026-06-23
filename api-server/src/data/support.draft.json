@@ -1,0 +1,127 @@
+{
+  "_meta": {
+    "status": "published",
+    "lastSavedAt": "2026-05-15T15:07:41.203Z",
+    "publishedAt": "2026-05-15T15:07:41.203Z"
+  },
+  "hero": {
+    "visible": true,
+    "badge": "Help Center",
+    "heading": "How Can We",
+    "headingHighlight": "Help You?",
+    "subheading": "Browse our FAQ, submit a ticket, or reach out directly."
+  },
+  "faqs": [
+    {
+      "id": "faq1",
+      "question": "What is the typical timeline for an AI integration project?",
+      "answer": "Most standard integrations take 4-8 weeks. Complex enterprise deployments can take 3-6 months depending on data readiness.",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "faq2",
+      "question": "Do you offer post-launch support?",
+      "answer": "Yes, all our Professional and Enterprise plans include dedicated SLA support and maintenance.",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "faq3",
+      "question": "Can you work with our existing legacy databases?",
+      "answer": "Absolutely. We specialize in building ETL pipelines that connect modern AI and BI tools to legacy systems.",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "faq4",
+      "question": "Is our data secure with your AI models?",
+      "answer": "Data security is paramount. We deploy models within your cloud environment (Azure, AWS, GCP) so data never leaves your perimeter.",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "faq5",
+      "question": "Do you provide source code access?",
+      "answer": "Yes, upon project completion and full payment, clients receive full ownership and source code.",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "faq6",
+      "question": "How do you charge for projects?",
+      "answer": "We offer both fixed-price milestone billing for defined scopes and time/materials for exploratory AI R&D.",
+      "visible": true,
+      "order": 5
+    },
+    {
+      "id": "faq-home-1",
+      "question": "What does ADT SoftTech specialize in?",
+      "answer": "ADT SoftTech specializes in AI systems, data analytics, automation, web development, mobile apps, and business intelligence solutions.",
+      "visible": true,
+      "order": 6
+    },
+    {
+      "id": "faq-home-2",
+      "question": "Can ADT SoftTech build AI chatbots and AI agents?",
+      "answer": "Yes. We build AI chatbots, AI agents, LLM integrations, RAG systems, and automation bots for support, knowledge, operations, and internal workflows.",
+      "visible": true,
+      "order": 7
+    },
+    {
+      "id": "faq-home-3",
+      "question": "Do you provide data analytics dashboards for businesses?",
+      "answer": "Yes. We design Power BI dashboards, KPI reporting systems, predictive analytics workflows, and business intelligence dashboards.",
+      "visible": true,
+      "order": 8
+    },
+    {
+      "id": "faq-home-4",
+      "question": "Can you develop web and mobile applications?",
+      "answer": "Yes. We build business websites, SaaS platforms, custom web applications, Flutter apps, Android/iOS apps, APIs, and maintenance systems.",
+      "visible": true,
+      "order": 9
+    },
+    {
+      "id": "faq-home-5",
+      "question": "Do you offer automation using N8N, Make.com, or Zapier?",
+      "answer": "Yes. We create N8N automations, Make.com workflows, Zapier integrations, and custom AI workflow automation.",
+      "visible": true,
+      "order": 10
+    },
+    {
+      "id": "faq-home-6",
+      "question": "Which industries do you work with?",
+      "answer": "We work with healthcare, finance, retail, e-commerce, education, technology startups, logistics, HR Tech, and data-driven organizations.",
+      "visible": true,
+      "order": 11
+    },
+    {
+      "id": "faq-home-7",
+      "question": "How can I start a project with ADT SoftTech?",
+      "answer": "You can start by booking a free consultation through the website or contacting us on WhatsApp at +92 331 720 3878.",
+      "visible": true,
+      "order": 12
+    },
+    {
+      "id": "faq-home-8",
+      "question": "Do you offer free consultation or startup guidance?",
+      "answer": "Yes. ADT SoftTech offers free consultation, problem analysis, solution suggestions, startup guidance, templates, and learning resources.",
+      "visible": true,
+      "order": 13
+    }
+  ],
+  "seo": {
+    "metaTitle": "Support & FAQ - ADT SoftTech Help Center",
+    "metaDescription": "Get help with ADT SoftTech services. Browse FAQs about AI systems, analytics, automation, web and mobile development, pricing, project timelines, data security, and support.",
+    "keywords": "support, FAQ, help center, ADT SoftTech, AI systems, analytics, automation, web development, mobile apps",
+    "canonical": "/support",
+    "robots": "index, follow",
+    "ogTitle": "Support - ADT SoftTech",
+    "ogDescription": "Find answers to common questions about ADT SoftTech services, pricing, project delivery, and support.",
+    "ogImage": "",
+    "twitterTitle": "Support - ADT SoftTech",
+    "twitterDescription": "Browse ADT SoftTech FAQs and submit a support ticket.",
+    "twitterImage": ""
+  }
+}

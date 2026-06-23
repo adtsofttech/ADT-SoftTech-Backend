@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "status": "published",
+    "lastSavedAt": "2026-05-17T11:40:21.682Z",
+    "publishedAt": "2026-05-17T11:40:21.682Z"
+  },
+  "preset": "compact",
+  "section": {
+    "defaultY": "clamp(3.25rem, 2.6rem + 2.8vw, 4.75rem)",
+    "compactY": "clamp(2rem, 1.65rem + 1.5vw, 3rem)",
+    "heroY": "clamp(4rem, 3.1rem + 3.8vw, 6rem)"
+  },
+  "cards": {
+    "padding": "clamp(1.125rem, 0.95rem + 0.65vw, 1.625rem)",
+    "compactPadding": "clamp(0.875rem, 0.78rem + 0.38vw, 1.125rem)",
+    "contentGap": "clamp(0.625rem, 0.56rem + 0.25vw, 0.875rem)",
+    "gridGap": "clamp(0.875rem, 0.72rem + 0.6vw, 1.25rem)",
+    "listItemGap": "0.375rem"
+  },
+  "cta": {
+    "gap": "0.625rem",
+    "margin": "0.75rem"
+  },
+  "overrides": {
+    "servicesCards": "compact",
+    "productCards": "compact",
+    "portfolioCards": "compact"
+  }
+}

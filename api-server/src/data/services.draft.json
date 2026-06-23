@@ -1,0 +1,349 @@
+{
+  "_meta": {
+    "status": "published",
+    "lastSavedAt": "2026-05-14T05:16:20.168Z",
+    "publishedAt": "2026-04-22T07:26:04.721Z"
+  },
+  "hero": {
+    "visible": true,
+    "heading": "AI, Analytics & Software",
+    "headingHighlight": "Services",
+    "description": "Five service groups designed to help businesses build intelligent systems, automate workflows, and transform data into action."
+  },
+  "services": {
+    "visible": true,
+    "items": [
+      {
+        "id": "sv1",
+        "title": "Artificial Intelligence Solutions",
+        "detailSlug": "artificial-intelligence-solutions",
+        "icon": "Bot",
+        "description": "AI chatbots, AI agents, LLM integrations, RAG systems, and automation bots tailored to your business data.",
+        "features": [
+          {
+            "id": "sv1f1",
+            "text": "AI Chatbots",
+            "visible": true
+          },
+          {
+            "id": "sv1f2",
+            "text": "AI Agents",
+            "visible": true
+          },
+          {
+            "id": "sv1f3",
+            "text": "LLM Integrations",
+            "visible": true
+          },
+          {
+            "id": "sv1f4",
+            "text": "RAG Systems",
+            "visible": true
+          },
+          {
+            "id": "sv1f5",
+            "text": "Automation Bots",
+            "visible": true
+          }
+        ],
+        "ctaText": "Get This Service",
+        "ctaEmail": "info@adtsofttech.com",
+        "category": "AI Solutions",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "sv2",
+        "title": "Data Analytics & Business Intelligence",
+        "detailSlug": "data-analytics-business-intelligence",
+        "icon": "BarChart",
+        "description": "Power BI dashboards, data visualization, MS Office system integration, predictive analytics, and BI consulting.",
+        "features": [
+          {
+            "id": "sv2f1",
+            "text": "Power BI Dashboards",
+            "visible": true
+          },
+          {
+            "id": "sv2f2",
+            "text": "Data Visualization",
+            "visible": true
+          },
+          {
+            "id": "sv2f3",
+            "text": "MS Office Full System Integration",
+            "visible": true
+          },
+          {
+            "id": "sv2f4",
+            "text": "Predictive Analytics",
+            "visible": true
+          },
+          {
+            "id": "sv2f5",
+            "text": "BI Consulting",
+            "visible": true
+          }
+        ],
+        "ctaText": "Get This Service",
+        "ctaEmail": "info@adtsofttech.com",
+        "category": "Data Analytics",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "sv3",
+        "title": "Web Development",
+        "detailSlug": "web-development",
+        "icon": "Code",
+        "description": "Business websites, SaaS platforms, custom web applications, API integrations, and ongoing maintenance.",
+        "features": [
+          {
+            "id": "sv3f1",
+            "text": "Business Websites",
+            "visible": true
+          },
+          {
+            "id": "sv3f2",
+            "text": "SaaS Platforms",
+            "visible": true
+          },
+          {
+            "id": "sv3f3",
+            "text": "Custom Web Applications",
+            "visible": true
+          },
+          {
+            "id": "sv3f4",
+            "text": "API Integrations",
+            "visible": true
+          },
+          {
+            "id": "sv3f5",
+            "text": "Maintenance Services",
+            "visible": true
+          }
+        ],
+        "ctaText": "Get This Service",
+        "ctaEmail": "info@adtsofttech.com",
+        "category": "Web Development",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "sv4",
+        "title": "Mobile App Development",
+        "detailSlug": "mobile-app-development",
+        "icon": "Smartphone",
+        "description": "Flutter, Android, iOS, cross-platform solutions, maintenance, and live mobile application solutions.",
+        "features": [
+          {
+            "id": "sv4f1",
+            "text": "Flutter Apps",
+            "visible": true
+          },
+          {
+            "id": "sv4f2",
+            "text": "Android & iOS Apps",
+            "visible": true
+          },
+          {
+            "id": "sv4f3",
+            "text": "Cross-platform Solutions",
+            "visible": true
+          },
+          {
+            "id": "sv4f4",
+            "text": "Maintenance Services",
+            "visible": true
+          },
+          {
+            "id": "sv4f5",
+            "text": "Live Mobile Solutions",
+            "visible": true
+          }
+        ],
+        "ctaText": "Get This Service",
+        "ctaEmail": "info@adtsofttech.com",
+        "category": "Mobile Apps",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "sv5",
+        "title": "Automation Systems",
+        "detailSlug": "automation-systems",
+        "icon": "Zap",
+        "description": "N8N automation, Make.com workflows, Zapier integrations, AI workflow automation, and coding AI agents.",
+        "features": [
+          {
+            "id": "sv5f1",
+            "text": "N8N Automation",
+            "visible": true
+          },
+          {
+            "id": "sv5f2",
+            "text": "Make.com Workflows",
+            "visible": true
+          },
+          {
+            "id": "sv5f3",
+            "text": "Zapier Integrations",
+            "visible": true
+          },
+          {
+            "id": "sv5f4",
+            "text": "AI Workflow Automation",
+            "visible": true
+          },
+          {
+            "id": "sv5f5",
+            "text": "Coding AI Agents",
+            "visible": true
+          }
+        ],
+        "ctaText": "Get This Service",
+        "ctaEmail": "info@adtsofttech.com",
+        "category": "Automation",
+        "visible": true,
+        "order": 4
+      }
+    ]
+  },
+  "pricing": {
+    "visible": true,
+    "sectionTitle": "Transparent Pricing",
+    "sectionSubtitle": "Tailored plans based on your specific requirements.",
+    "plans": [
+      {
+        "id": "p1",
+        "name": "Starter Plan",
+        "description": "Perfect for small businesses starting their digital transformation.",
+        "price": "Custom",
+        "popular": false,
+        "features": [
+          {
+            "id": "p1f1",
+            "text": "Basic Web Development",
+            "visible": true
+          },
+          {
+            "id": "p1f2",
+            "text": "Simple Analytics Dashboard",
+            "visible": true
+          },
+          {
+            "id": "p1f3",
+            "text": "Standard Support Setup",
+            "visible": true
+          },
+          {
+            "id": "p1f4",
+            "text": "Email Support",
+            "visible": true
+          }
+        ],
+        "ctaText": "Request Quote",
+        "ctaEmail": "adtsofttech@gmail.com",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "p2",
+        "name": "Professional Plan",
+        "description": "Comprehensive solutions for growing companies needing scale.",
+        "price": "Custom",
+        "popular": true,
+        "features": [
+          {
+            "id": "p2f1",
+            "text": "Advanced Web/Mobile Apps",
+            "visible": true
+          },
+          {
+            "id": "p2f2",
+            "text": "Custom AI Chatbot Integration",
+            "visible": true
+          },
+          {
+            "id": "p2f3",
+            "text": "Predictive Analytics Models",
+            "visible": true
+          },
+          {
+            "id": "p2f4",
+            "text": "Priority Support",
+            "visible": true
+          },
+          {
+            "id": "p2f5",
+            "text": "Basic Workflow Automation",
+            "visible": true
+          }
+        ],
+        "ctaText": "Request Quote",
+        "ctaEmail": "adtsofttech@gmail.com",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "p3",
+        "name": "Enterprise Plan",
+        "description": "Full-scale dedicated architecture and AI engineering.",
+        "price": "Custom",
+        "popular": false,
+        "features": [
+          {
+            "id": "p3f1",
+            "text": "Full Ecosystem Development",
+            "visible": true
+          },
+          {
+            "id": "p3f2",
+            "text": "Dedicated Autonomous AI Agents",
+            "visible": true
+          },
+          {
+            "id": "p3f3",
+            "text": "Complex N8N Automations",
+            "visible": true
+          },
+          {
+            "id": "p3f4",
+            "text": "24/7 Dedicated Support",
+            "visible": true
+          },
+          {
+            "id": "p3f5",
+            "text": "On-premise deployment options",
+            "visible": true
+          }
+        ],
+        "ctaText": "Request Quote",
+        "ctaEmail": "adtsofttech@gmail.com",
+        "visible": true,
+        "order": 2
+      }
+    ]
+  },
+  "cta": {
+    "visible": true,
+    "heading": "Ready to Transform Your Business?",
+    "description": "Schedule a free consultation with our team and get started today.",
+    "buttonText": "Start Free Consultation",
+    "buttonLink": "/free-services"
+  },
+  "seo": {
+    "metaTitle": "AI, Analytics, Web, Mobile & Automation Services | ADT SoftTech",
+    "metaDescription": "Explore ADT SoftTech services including AI solutions, data analytics, business intelligence, web development, mobile apps, and automation systems.",
+    "keywords": "AI services, Power BI dashboards, web development, Flutter apps, N8N automation",
+    "canonical": "/services",
+    "robots": "index, follow",
+    "ogTitle": "ADT SoftTech Services",
+    "ogDescription": "AI, analytics, software development, mobile apps, and automation services.",
+    "ogImage": "",
+    "twitterTitle": "ADT SoftTech Services",
+    "twitterDescription": "Build intelligent systems with ADT SoftTech.",
+    "twitterImage": ""
+  }
+}

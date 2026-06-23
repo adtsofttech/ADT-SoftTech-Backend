@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "status": "published",
+    "lastSavedAt": "2026-05-14T00:00:00.000Z",
+    "publishedAt": "2026-05-14T00:00:00.000Z"
+  },
+  "hero": {
+    "visible": true,
+    "heading": "Let's Build an Intelligent",
+    "headingHighlight": "Digital System",
+    "subheading": "Tell us about your AI, analytics, automation, web, mobile, or dashboard project. We work globally without listing fake office addresses."
+  },
+  "email": "info@adtsofttech.com",
+  "whatsapp": "https://wa.me/923317203878",
+  "whatsappText": "+92 331 720 3878",
+  "address": "Available for remote collaboration across Pakistan, UAE, KSA, Canada, and global markets.",
+  "seo": {
+    "metaTitle": "Contact ADT SoftTech | AI, Analytics & Software Projects",
+    "metaDescription": "Contact ADT SoftTech for AI agents, dashboards, automation systems, web development, mobile apps, and digital transformation projects.",
+    "keywords": "contact ADT SoftTech, AI development, analytics dashboard, software project inquiry",
+    "canonical": "/contact",
+    "robots": "index, follow",
+    "ogTitle": "Contact ADT SoftTech",
+    "ogDescription": "Discuss your AI, analytics, automation, web, or mobile project.",
+    "ogImage": "",
+    "twitterTitle": "Contact ADT SoftTech",
+    "twitterDescription": "Start a project with ADT SoftTech.",
+    "twitterImage": ""
+  }
+}

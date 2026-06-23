@@ -1,0 +1,112 @@
+[
+  {
+    "id": "0cbf6cf0-d50a-4af5-9b62-7d0fe55252de",
+    "createdAt": "2026-06-22T08:05:06.059Z",
+    "eventType": "test_notification",
+    "channel": "whatsapp",
+    "status": "not_configured",
+    "recipient": "+923317203878",
+    "relatedId": "test-1782115506056",
+    "error": "WhatsApp Cloud API is not configured."
+  },
+  {
+    "id": "668a6fa8-2f7d-4a90-ba40-8ce45d08b25e",
+    "createdAt": "2026-06-22T08:05:03.818Z",
+    "eventType": "test_notification",
+    "channel": "email",
+    "status": "not_configured",
+    "recipient": "info@adtsofttech.com",
+    "relatedId": "test-1782115503813",
+    "error": "Email provider is not configured."
+  },
+  {
+    "id": "18737b31-46cb-43a3-b10f-30b63347a1bd",
+    "createdAt": "2026-06-22T08:04:24.426Z",
+    "eventType": "test_notification",
+    "channel": "email",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1782115464415",
+    "error": "No recipients configured."
+  },
+  {
+    "id": "10ec0b6c-800c-4a78-883a-97460c102f7e",
+    "createdAt": "2026-06-04T06:19:36.748Z",
+    "eventType": "test_notification",
+    "channel": "whatsapp",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1780553976746",
+    "error": "WhatsApp Cloud API is not configured."
+  },
+  {
+    "id": "dede8b0c-c978-4eb9-9971-29de143d02a0",
+    "createdAt": "2026-06-04T06:19:35.601Z",
+    "eventType": "test_notification",
+    "channel": "email",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1780553975600",
+    "error": "No recipients configured."
+  },
+  {
+    "id": "9644ea38-9f94-44c0-adeb-f12f69316c9f",
+    "createdAt": "2026-06-04T06:19:28.584Z",
+    "eventType": "test_notification",
+    "channel": "email",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1780553968583",
+    "error": "No recipients configured."
+  },
+  {
+    "id": "9d694153-8804-466a-b83f-1fb385dacd6d",
+    "createdAt": "2026-06-04T06:19:26.117Z",
+    "eventType": "test_notification",
+    "channel": "whatsapp",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1780553966113",
+    "error": "WhatsApp Cloud API is not configured."
+  },
+  {
+    "id": "5af5e0dc-541d-42f6-8c47-56ab4a79d339",
+    "createdAt": "2026-06-04T06:19:25.403Z",
+    "eventType": "test_notification",
+    "channel": "email",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1780553965397",
+    "error": "No recipients configured."
+  },
+  {
+    "id": "810442ab-4e29-4314-97ca-20e3462005d1",
+    "createdAt": "2026-06-04T03:14:24.394Z",
+    "eventType": "test_notification",
+    "channel": "whatsapp",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1780542864393",
+    "error": "WhatsApp Cloud API is not configured."
+  },
+  {
+    "id": "3c8381d2-d25e-4231-b6c9-3af54820c79b",
+    "createdAt": "2026-06-04T03:14:23.717Z",
+    "eventType": "test_notification",
+    "channel": "email",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1780542863715",
+    "error": "No recipients configured."
+  },
+  {
+    "id": "fb54c3f2-95b9-4c92-8fe3-24c75231bb63",
+    "createdAt": "2026-05-16T19:35:42.151Z",
+    "eventType": "test_notification",
+    "channel": "email",
+    "status": "not_configured",
+    "recipient": "",
+    "relatedId": "test-1778960142150",
+    "error": "No recipients configured."
+  }
+]

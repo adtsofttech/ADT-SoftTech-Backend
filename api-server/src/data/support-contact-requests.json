@@ -1,0 +1,218 @@
+[
+  {
+    "id": "6919b7c6-d206-4755-bc9c-3730af1b30bd",
+    "name": "Final Contact User",
+    "email": "final-contact@example.com",
+    "phone": "03030431348",
+    "whatsappNumber": "03030431348",
+    "company": "ADT Test",
+    "subject": "Service Inquiry: AI & Automation",
+    "message": "Service inquiry: AI & Automation`nService slug: ai-automation`n`nFinal verification contact flow",
+    "sourcePage": "http://localhost:5173/contact?requestType=service_inquiry",
+    "sourceForm": "service_page_inquiry",
+    "requestType": "service_inquiry",
+    "status": "pending",
+    "priority": "normal",
+    "unreadByAdmin": false,
+    "adminNotes": "",
+    "history": [
+      {
+        "id": "73113651-b51e-4f71-b023-3da972269e75",
+        "kind": "customer_message",
+        "author": "customer",
+        "message": "Service inquiry: AI & Automation`nService slug: ai-automation`n`nFinal verification contact flow",
+        "createdAt": "2026-05-17T04:22:21.622Z"
+      },
+      {
+        "id": "00438969-c7a5-490f-8aba-0ce382277370",
+        "createdAt": "2026-06-04T03:12:38.777Z",
+        "kind": "admin_reply",
+        "author": "admin",
+        "message": "Thanks for reaching out. We have received your request and will review the details shortly.",
+        "channel": "email",
+        "deliveryStatus": "not_configured",
+        "deliveryError": "Email provider is not configured.",
+        "attachments": []
+      },
+      {
+        "id": "c7b1389b-e9e6-4aa8-ad8d-e4111796ef00",
+        "createdAt": "2026-06-04T03:13:13.962Z",
+        "kind": "admin_reply",
+        "author": "admin",
+        "message": "We can help with this. Please share your preferred timeline and the best number for a quick call.",
+        "channel": "internal",
+        "deliveryStatus": "sent",
+        "deliveryError": "",
+        "attachments": []
+      },
+      {
+        "id": "6cde135c-7d1d-4e32-ae06-d943fd2af793",
+        "createdAt": "2026-06-04T03:13:38.447Z",
+        "kind": "status_change",
+        "author": "admin",
+        "message": "Status changed from in_progress to resolved."
+      },
+      {
+        "id": "cc689f16-d663-4587-bcfc-8b373322a750",
+        "createdAt": "2026-06-04T05:16:41.251Z",
+        "kind": "status_change",
+        "author": "admin",
+        "message": "Status changed from resolved to pending."
+      }
+    ],
+    "notificationStatus": "not_configured",
+    "notificationError": "",
+    "createdAt": "2026-05-17T04:22:21.623Z",
+    "updatedAt": "2026-06-04T05:16:41.255Z"
+  },
+  {
+    "id": "33ef0e80-0abe-4ecc-bad0-2f49206f9eb0",
+    "name": "Final Support User",
+    "email": "final-support@example.com",
+    "phone": "03030431348",
+    "whatsappNumber": "03030431348",
+    "company": "",
+    "subject": "Final Support Ticket",
+    "message": "Final verification support flow",
+    "sourcePage": "http://localhost:5173/support",
+    "sourceForm": "support_page_ticket_form",
+    "requestType": "support_ticket",
+    "status": "new",
+    "priority": "normal",
+    "unreadByAdmin": true,
+    "adminNotes": "",
+    "history": [
+      {
+        "id": "1255d7f4-2e79-4176-816c-9632dd22ba9b",
+        "kind": "customer_message",
+        "author": "customer",
+        "message": "Final verification support flow",
+        "createdAt": "2026-05-17T04:22:21.437Z"
+      }
+    ],
+    "notificationStatus": "not_configured",
+    "notificationError": "",
+    "createdAt": "2026-05-17T04:22:21.457Z",
+    "updatedAt": "2026-05-17T04:22:21.469Z"
+  },
+  {
+    "id": "a8721522-4a76-471d-8d87-e7d0fa1dbb0b",
+    "name": "Preview Contact User",
+    "email": "contact-preview@example.com",
+    "phone": "03030431348",
+    "whatsappNumber": "03030431348",
+    "company": "ADT Test",
+    "subject": "Service Inquiry: AI & Automation",
+    "message": "Service inquiry: AI & Automation`nService slug: ai-automation`n`nTesting fixed contact flow",
+    "sourcePage": "http://localhost:5173/contact?requestType=service_inquiry",
+    "sourceForm": "service_page_inquiry",
+    "requestType": "service_inquiry",
+    "status": "new",
+    "priority": "normal",
+    "unreadByAdmin": true,
+    "adminNotes": "",
+    "history": [
+      {
+        "id": "e77cb2ff-38a1-494a-93f7-00c1f0cf1b94",
+        "kind": "customer_message",
+        "author": "customer",
+        "message": "Service inquiry: AI & Automation`nService slug: ai-automation`n`nTesting fixed contact flow",
+        "createdAt": "2026-05-17T04:19:28.827Z"
+      }
+    ],
+    "notificationStatus": "not_configured",
+    "notificationError": "",
+    "createdAt": "2026-05-17T04:19:28.827Z",
+    "updatedAt": "2026-05-17T04:19:28.830Z"
+  },
+  {
+    "id": "04191a64-97a2-4b6a-8aa9-cee4ecb53d22",
+    "name": "Preview Support User",
+    "email": "support-preview@example.com",
+    "phone": "03030431348",
+    "whatsappNumber": "03030431348",
+    "company": "",
+    "subject": "Preview Support Ticket",
+    "message": "Testing fixed support flow",
+    "sourcePage": "http://localhost:5173/support",
+    "sourceForm": "support_page_ticket_form",
+    "requestType": "support_ticket",
+    "status": "new",
+    "priority": "normal",
+    "unreadByAdmin": true,
+    "adminNotes": "",
+    "history": [
+      {
+        "id": "636009bf-0932-4a87-be75-db65390cb105",
+        "kind": "customer_message",
+        "author": "customer",
+        "message": "Testing fixed support flow",
+        "createdAt": "2026-05-17T04:19:28.676Z"
+      }
+    ],
+    "notificationStatus": "not_configured",
+    "notificationError": "",
+    "createdAt": "2026-05-17T04:19:28.693Z",
+    "updatedAt": "2026-05-17T04:19:28.698Z"
+  },
+  {
+    "id": "0ce64e65-19b7-43e9-a3f2-fefdede11125",
+    "name": "Test User 3",
+    "email": "test3@example.com",
+    "phone": "03030431348",
+    "whatsappNumber": "03030431348",
+    "company": "",
+    "subject": "Project Discussing",
+    "message": "dfgdgfdsg",
+    "sourcePage": "http://localhost:5173/support",
+    "sourceForm": "support_page_ticket_form",
+    "requestType": "support_ticket",
+    "status": "new",
+    "priority": "normal",
+    "unreadByAdmin": true,
+    "adminNotes": "",
+    "history": [
+      {
+        "id": "6102162b-7173-4b1b-917f-4adcc23001cb",
+        "kind": "customer_message",
+        "author": "customer",
+        "message": "dfgdgfdsg",
+        "createdAt": "2026-05-17T04:18:26.715Z"
+      }
+    ],
+    "notificationStatus": "not_configured",
+    "notificationError": "",
+    "createdAt": "2026-05-17T04:18:26.728Z",
+    "updatedAt": "2026-05-17T04:18:26.737Z"
+  },
+  {
+    "id": "43743451-5b21-43ca-b9b8-c5feb976652b",
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "03030431348",
+    "whatsappNumber": "03030431348",
+    "company": "",
+    "subject": "Project Discussing",
+    "message": "dfgdgfdsg",
+    "sourcePage": "http://localhost:5173/support",
+    "sourceForm": "support_page_ticket_form",
+    "requestType": "support_ticket",
+    "status": "new",
+    "priority": "normal",
+    "unreadByAdmin": true,
+    "adminNotes": "",
+    "history": [
+      {
+        "id": "c30db792-9955-4b25-a9e3-2bcf9ce8cbd8",
+        "kind": "customer_message",
+        "author": "customer",
+        "message": "dfgdgfdsg",
+        "createdAt": "2026-05-17T04:17:18.555Z"
+      }
+    ],
+    "notificationStatus": "pending",
+    "notificationError": "",
+    "createdAt": "2026-05-17T04:17:18.568Z",
+    "updatedAt": "2026-05-17T04:17:18.568Z"
+  }
+]

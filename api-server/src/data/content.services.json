@@ -1,0 +1,495 @@
+[
+  {
+    "id": "svc-ai-solutions",
+    "title": "Artificial Intelligence Solutions",
+    "slug": "artificial-intelligence-solutions",
+    "excerpt": "AI chatbots, AI agents, LLM integrations, RAG systems, and automation bots tailored to real business data.",
+    "body": "ADT SoftTech builds practical AI systems for support, lead capture, internal knowledge search, automation, and decision support.",
+    "featuredImage": "",
+    "galleryImages": [],
+    "contentBlocks": [],
+    "category": "AI Solutions",
+    "tags": ["AI", "Chatbots", "LLM", "RAG", "Automation"],
+    "icon": "Bot",
+    "features": ["AI chatbots", "AI agents", "LLM integrations", "RAG systems", "Automation bots"],
+    "pricingNote": "Custom pricing based on scope, integrations, and support needs.",
+    "sortOrder": 0,
+    "homepageTabTitle": "AI",
+    "homepageShortDescription": "Build AI assistants and automation systems around your data and workflows.",
+    "businessBenefits": ["Faster customer replies", "Reduced manual workload", "Better access to internal knowledge"],
+    "showOnHomepage": true,
+    "shortHeroDescription": "AI systems that answer, automate, recommend, and support teams using your business context.",
+    "longIntroHeading": "Build AI that fits the way your business actually works",
+    "longIntroDescription": "We design AI workflows around your data, users, approvals, integrations, and business goals. The focus is useful delivery: reliable answers, cleaner handoffs, practical automation, and measurable time savings.",
+    "heroImage": "",
+    "heroCTAButtonText": "Discuss AI Project",
+    "heroCTAButtonLink": "/contact?requestType=service_inquiry&serviceTitle=Artificial%20Intelligence%20Solutions",
+    "secondaryCTAButtonText": "View Portfolio",
+    "secondaryCTAButtonLink": "/portfolio",
+    "subServices": [
+      { "title": "AI Chatbots", "description": "Customer support and lead capture assistants for websites, portals, and internal teams.", "order": 0 },
+      { "title": "RAG Knowledge Systems", "description": "Search and answer systems connected to documents, FAQs, policies, and business data.", "order": 1 },
+      { "title": "AI Workflow Agents", "description": "Agents that route tasks, summarize messages, prepare drafts, and trigger connected workflows.", "order": 2 }
+    ],
+    "industryUseCases": [
+      { "name": "Service Businesses", "description": "Handle FAQs, project inquiries, appointment requests, and customer follow-ups.", "order": 0 },
+      { "name": "Startups", "description": "Launch AI-enabled MVP features without overbuilding the first version.", "order": 1 },
+      { "name": "Operations Teams", "description": "Automate repetitive communication, reporting, and internal knowledge requests.", "order": 2 }
+    ],
+    "benefits": [
+      { "title": "Faster Response Time", "description": "Reduce delays in common support and inquiry workflows.", "order": 0 },
+      { "title": "Smarter Knowledge Access", "description": "Let teams find answers from approved documents and business content.", "order": 1 },
+      { "title": "Workflow Automation", "description": "Connect AI output to forms, CRM, email, dashboards, and approval flows.", "order": 2 }
+    ],
+    "whyChooseUs": [
+      { "title": "Business-first AI", "description": "We map AI around real customer journeys and internal operations.", "order": 0 },
+      { "title": "Integrated delivery", "description": "AI can connect with websites, apps, dashboards, and automation tools.", "order": 1 },
+      { "title": "Secure implementation", "description": "We plan access, data boundaries, testing, and safe handoff from the start.", "order": 2 }
+    ],
+    "technologyStack": [
+      { "toolName": "OpenAI", "category": "AI Models", "order": 0 },
+      { "toolName": "Vector Search", "category": "Knowledge Retrieval", "order": 1 },
+      { "toolName": "Firebase", "category": "Backend", "order": 2 },
+      { "toolName": "n8n", "category": "Automation", "order": 3 }
+    ],
+    "developmentProcess": [
+      { "stepNumber": 1, "title": "Discovery", "description": "We define user flows, data sources, success criteria, and safety limits.", "order": 0 },
+      { "stepNumber": 2, "title": "Prototype", "description": "We build a working assistant or workflow with core integrations.", "order": 1 },
+      { "stepNumber": 3, "title": "Test and refine", "description": "We test prompts, edge cases, handoffs, and admin controls.", "order": 2 },
+      { "stepNumber": 4, "title": "Launch and support", "description": "We deploy, monitor, and improve based on real usage.", "order": 3 }
+    ],
+    "caseStudies": [],
+    "relatedArticles": [
+      { "slug": "ai-ready-website-google-ai-search-optimization", "title": "AI-ready website guide", "order": 0 }
+    ],
+    "faqs": [
+      { "question": "Can you build an AI chatbot for our website?", "answer": "Yes. We can build website chatbots for lead capture, support, FAQs, service guidance, and internal routing.", "order": 0 },
+      { "question": "Can the AI use our own documents?", "answer": "Yes. We can connect approved documents and knowledge sources through a retrieval workflow.", "order": 1 }
+    ],
+    "midPageCta": {
+      "heading": "Need an AI assistant for your business?",
+      "paragraph": "Share your use case and we will suggest the fastest practical implementation path.",
+      "buttonText": "Request AI Consultation",
+      "buttonUrl": "/contact?requestType=service_inquiry&serviceTitle=Artificial%20Intelligence%20Solutions"
+    },
+    "finalCta": {
+      "heading": "Ready to build useful AI?",
+      "paragraph": "Let ADT SoftTech design an AI workflow around your data, users, and business process.",
+      "buttonText": "Start AI Project",
+      "buttonUrl": "/contact"
+    },
+    "status": "published",
+    "publishedAt": "2026-05-18T15:20:56.211Z",
+    "createdAt": "2026-05-18T15:20:56.211Z",
+    "updatedAt": "2026-06-04T00:00:00.000Z",
+    "seoTitle": "Artificial Intelligence Solutions | ADT SoftTech",
+    "metaDescription": "AI chatbots, AI agents, RAG systems, LLM integrations, and automation bots for businesses from ADT SoftTech.",
+    "focusKeyword": "AI solutions, AI chatbot development, RAG systems, AI automation",
+    "canonicalUrl": "/services/artificial-intelligence-solutions",
+    "robotsIndex": "index, follow",
+    "robotsFollow": true,
+    "ogTitle": "Artificial Intelligence Solutions",
+    "ogDescription": "Build practical AI systems with ADT SoftTech.",
+    "ogImage": "",
+    "twitterTitle": "Artificial Intelligence Solutions",
+    "twitterDescription": "AI chatbots, agents, RAG, and automation systems.",
+    "twitterImage": "",
+    "schemaType": "Service",
+    "sitemapEnabled": true,
+    "sitemapPriority": "0.8"
+  },
+  {
+    "id": "svc-data-analytics-bi",
+    "title": "Data Analytics & Business Intelligence",
+    "slug": "data-analytics-business-intelligence",
+    "excerpt": "Power BI dashboards, Excel dashboards, data visualization, predictive analytics, and BI consulting.",
+    "body": "ADT SoftTech turns raw business data into dashboards, reports, KPIs, forecasts, and decision-ready insight.",
+    "featuredImage": "/api/cms/uploads/coffee-shop-sales-dashboard-cover.png",
+    "galleryImages": [],
+    "contentBlocks": [],
+    "category": "Data Analytics",
+    "tags": ["Power BI", "Excel", "Dashboard", "Analytics", "Forecasting"],
+    "icon": "BarChart",
+    "features": ["Power BI dashboards", "Data visualization", "Excel dashboards", "Predictive analytics", "BI consulting"],
+    "pricingNote": "Custom pricing based on data sources, dashboard complexity, and reporting needs.",
+    "sortOrder": 1,
+    "homepageTabTitle": "Analytics",
+    "homepageShortDescription": "Convert business data into dashboards, KPIs, forecasts, and clear reports.",
+    "businessBenefits": ["Clear performance visibility", "Faster reporting", "Better decision-making"],
+    "showOnHomepage": true,
+    "shortHeroDescription": "Dashboards and reporting systems that help teams understand sales, operations, HR, finance, and growth.",
+    "longIntroHeading": "Make business decisions with clean dashboards and measurable insight",
+    "longIntroDescription": "We design dashboards around the questions leaders actually ask: what is growing, what is slowing down, where are costs rising, and which areas need action. Our analytics work can include data cleaning, Power BI, Excel dashboards, forecasting, and recurring reports.",
+    "heroImage": "/api/cms/uploads/coffee-shop-sales-dashboard-cover.png",
+    "heroCTAButtonText": "Discuss Dashboard",
+    "heroCTAButtonLink": "/contact?requestType=service_inquiry&serviceTitle=Data%20Analytics%20%26%20Business%20Intelligence",
+    "secondaryCTAButtonText": "View Dashboard Projects",
+    "secondaryCTAButtonLink": "/portfolio",
+    "subServices": [
+      { "title": "Power BI Dashboards", "description": "Interactive dashboards for sales, HR, operations, finance, and executive reporting.", "order": 0 },
+      { "title": "Excel Dashboards", "description": "Clean Excel reporting systems for teams that need quick analysis without heavy infrastructure.", "order": 1 },
+      { "title": "Forecasting Reports", "description": "Trend analysis and forecasting views that support better planning.", "order": 2 }
+    ],
+    "industryUseCases": [
+      { "name": "Retail and E-commerce", "description": "Sales, products, customers, categories, inventory, and profit dashboards.", "order": 0 },
+      { "name": "Restaurants and Cafes", "description": "Revenue, peak hours, products, customer behavior, and operational analysis.", "order": 1 },
+      { "name": "HR Teams", "description": "Attrition, employee demographics, satisfaction, and workforce analytics.", "order": 2 }
+    ],
+    "benefits": [
+      { "title": "Single Source of Truth", "description": "Bring scattered data into one reliable reporting view.", "order": 0 },
+      { "title": "Actionable KPIs", "description": "Track the numbers that matter instead of drowning in spreadsheets.", "order": 1 },
+      { "title": "Forecasting Support", "description": "Use historical trends to plan inventory, staffing, and growth.", "order": 2 }
+    ],
+    "whyChooseUs": [
+      { "title": "Portfolio-backed delivery", "description": "Our site includes real dashboard case studies across sales, HR, and retail analytics.", "order": 0 },
+      { "title": "Business clarity", "description": "We design reports for decisions, not decoration.", "order": 1 },
+      { "title": "Flexible tools", "description": "Power BI, Excel, custom dashboards, and web-based reporting can all fit the workflow.", "order": 2 }
+    ],
+    "technologyStack": [
+      { "toolName": "Power BI", "category": "Visualization", "order": 0 },
+      { "toolName": "Microsoft Excel", "category": "Reporting", "order": 1 },
+      { "toolName": "SQL", "category": "Data", "order": 2 },
+      { "toolName": "Python", "category": "Analytics", "order": 3 }
+    ],
+    "developmentProcess": [
+      { "stepNumber": 1, "title": "Data audit", "description": "We review your files, systems, fields, and reporting goals.", "order": 0 },
+      { "stepNumber": 2, "title": "Dashboard design", "description": "We define KPIs, filters, visuals, and user roles.", "order": 1 },
+      { "stepNumber": 3, "title": "Build and validate", "description": "We build reports and verify numbers against source data.", "order": 2 },
+      { "stepNumber": 4, "title": "Handoff", "description": "We deliver files, instructions, and support for future updates.", "order": 3 }
+    ],
+    "caseStudies": [
+      { "title": "Coffee Shop Sales Management Dashboard", "description": "Sales, customer, product, and operational dashboard for cafe decision-making.", "image": "/api/cms/uploads/coffee-shop-sales-dashboard-cover.png", "technologyTags": ["Power BI", "Excel", "Analytics"], "ctaText": "View case study", "ctaLink": "/portfolio/coffee-shop-sales-management-dashboard", "order": 0 }
+    ],
+    "relatedArticles": [
+      { "slug": "power-bi-dashboard-development-services-2026", "title": "Power BI dashboard development services", "order": 0 }
+    ],
+    "faqs": [
+      { "question": "Can you build dashboards from Excel data?", "answer": "Yes. We can clean Excel data and build Excel or Power BI dashboards depending on your needs.", "order": 0 },
+      { "question": "Can dashboards include forecasting?", "answer": "Yes. We can include trend analysis and forecasting where your historical data supports it.", "order": 1 }
+    ],
+    "midPageCta": {
+      "heading": "Want a dashboard for your business?",
+      "paragraph": "Send us your reporting goal and we will suggest the right dashboard approach.",
+      "buttonText": "Request Dashboard Help",
+      "buttonUrl": "/contact?requestType=service_inquiry&serviceTitle=Data%20Analytics%20%26%20Business%20Intelligence"
+    },
+    "finalCta": {
+      "heading": "Turn your data into clear decisions",
+      "paragraph": "ADT SoftTech can help you build dashboards, reports, and forecasting views that support real action.",
+      "buttonText": "Start Analytics Project",
+      "buttonUrl": "/contact"
+    },
+    "status": "published",
+    "publishedAt": "2026-05-18T15:20:56.211Z",
+    "createdAt": "2026-05-18T15:20:56.211Z",
+    "updatedAt": "2026-06-04T00:00:00.000Z",
+    "seoTitle": "Data Analytics & Business Intelligence | ADT SoftTech",
+    "metaDescription": "Power BI dashboards, Excel dashboards, business intelligence, forecasting, and analytics services from ADT SoftTech.",
+    "focusKeyword": "Power BI dashboards, business intelligence, data analytics services",
+    "canonicalUrl": "/services/data-analytics-business-intelligence",
+    "robotsIndex": "index, follow",
+    "robotsFollow": true,
+    "ogTitle": "Data Analytics & Business Intelligence",
+    "ogDescription": "Dashboards and BI systems for business decision-making.",
+    "ogImage": "/api/cms/uploads/coffee-shop-sales-dashboard-cover.png",
+    "twitterTitle": "Data Analytics & Business Intelligence",
+    "twitterDescription": "Power BI, Excel dashboards, forecasting, and BI consulting.",
+    "twitterImage": "/api/cms/uploads/coffee-shop-sales-dashboard-cover.png",
+    "schemaType": "Service",
+    "sitemapEnabled": true,
+    "sitemapPriority": "0.8"
+  },
+  {
+    "id": "svc-web-development",
+    "title": "Web Development",
+    "slug": "web-development",
+    "excerpt": "Business websites, SaaS platforms, custom portals, API integrations, and maintenance services.",
+    "body": "ADT SoftTech builds fast, structured, SEO-friendly websites and web applications for business workflows.",
+    "featuredImage": "",
+    "galleryImages": [],
+    "contentBlocks": [],
+    "category": "Web Development",
+    "tags": ["Web Development", "SaaS", "React", "API", "Business Website"],
+    "icon": "Code",
+    "features": ["Business websites", "SaaS platforms", "Custom web applications", "API integrations", "Maintenance services"],
+    "pricingNote": "Custom pricing based on pages, features, CMS, integrations, and deployment.",
+    "sortOrder": 2,
+    "homepageTabTitle": "Web",
+    "homepageShortDescription": "Build websites, SaaS apps, portals, and admin systems with clean workflows.",
+    "businessBenefits": ["Better lead capture", "Modern business presence", "Connected internal workflows"],
+    "showOnHomepage": true,
+    "shortHeroDescription": "Modern websites and web applications built for marketing, operations, SEO, and customer workflows.",
+    "longIntroHeading": "A website should sell, support, and connect your business",
+    "longIntroDescription": "We build websites and web apps that explain services clearly, collect leads, integrate forms, support SEO, connect with admin workflows, and scale into portals or SaaS systems when needed.",
+    "heroImage": "",
+    "heroCTAButtonText": "Discuss Web Project",
+    "heroCTAButtonLink": "/contact?requestType=service_inquiry&serviceTitle=Web%20Development",
+    "secondaryCTAButtonText": "Read AI-ready website guide",
+    "secondaryCTAButtonLink": "/articles/ai-ready-website-google-ai-search-optimization",
+    "subServices": [
+      { "title": "Business Websites", "description": "Service websites with CMS content, portfolio, articles, SEO, and lead capture.", "order": 0 },
+      { "title": "Custom Web Apps", "description": "Dashboards, portals, admin tools, booking systems, and internal workflows.", "order": 1 },
+      { "title": "SaaS Platforms", "description": "Multi-user platforms with authentication, subscriptions, roles, and admin controls.", "order": 2 }
+    ],
+    "industryUseCases": [
+      { "name": "Startups", "description": "Launch MVP websites and early product portals quickly.", "order": 0 },
+      { "name": "Agencies and Consultants", "description": "Generate leads, explain offers, and manage client communication.", "order": 1 },
+      { "name": "Service Businesses", "description": "Booking, forms, portfolios, support, and customer communication workflows.", "order": 2 }
+    ],
+    "benefits": [
+      { "title": "Lead Generation", "description": "Guide visitors toward contact, booking, consultation, and quote requests.", "order": 0 },
+      { "title": "SEO Structure", "description": "Build clear pages, articles, internal links, metadata, and structured content.", "order": 1 },
+      { "title": "Workflow Integration", "description": "Connect forms with email, CRM, dashboards, WhatsApp, or admin systems.", "order": 2 }
+    ],
+    "whyChooseUs": [
+      { "title": "Frontend plus backend thinking", "description": "We plan design and data flow together for smoother operation.", "order": 0 },
+      { "title": "Conversion-focused pages", "description": "Pages are structured to help clients understand and act.", "order": 1 },
+      { "title": "Deployment support", "description": "We can support Hostinger-friendly static pages and backend integrations where needed.", "order": 2 }
+    ],
+    "technologyStack": [
+      { "toolName": "React", "category": "Frontend", "order": 0 },
+      { "toolName": "TypeScript", "category": "Frontend", "order": 1 },
+      { "toolName": "Node.js", "category": "Backend", "order": 2 },
+      { "toolName": "Firebase", "category": "Backend", "order": 3 }
+    ],
+    "developmentProcess": [
+      { "stepNumber": 1, "title": "Plan structure", "description": "We define pages, content, workflows, CTAs, and integrations.", "order": 0 },
+      { "stepNumber": 2, "title": "Design and build", "description": "We implement responsive pages and key user flows.", "order": 1 },
+      { "stepNumber": 3, "title": "Connect systems", "description": "We integrate forms, CMS, analytics, APIs, and admin tools.", "order": 2 },
+      { "stepNumber": 4, "title": "Deploy", "description": "We test, optimize, and prepare the website for launch.", "order": 3 }
+    ],
+    "caseStudies": [],
+    "relatedArticles": [
+      { "slug": "ai-ready-website-google-ai-search-optimization", "title": "AI-ready website guide", "order": 0 }
+    ],
+    "faqs": [
+      { "question": "Can you build a static website with a Firebase client portal?", "answer": "Yes. The public website can stay mostly static while the client portal uses Firebase or another backend service for login, files, chat, and project data.", "order": 0 },
+      { "question": "Can you add articles and portfolio pages for SEO?", "answer": "Yes. We can structure articles, services, portfolio, and internal links to improve discoverability.", "order": 1 }
+    ],
+    "midPageCta": {
+      "heading": "Need a website that sells your services?",
+      "paragraph": "We can help plan the structure, content, CMS, and conversion paths.",
+      "buttonText": "Request Website Help",
+      "buttonUrl": "/contact?requestType=service_inquiry&serviceTitle=Web%20Development"
+    },
+    "finalCta": {
+      "heading": "Build a website that works like a business system",
+      "paragraph": "ADT SoftTech can build your public website, lead flows, CMS pages, and client portal integrations.",
+      "buttonText": "Start Web Project",
+      "buttonUrl": "/contact"
+    },
+    "status": "published",
+    "publishedAt": "2026-05-18T15:20:56.211Z",
+    "createdAt": "2026-05-18T15:20:56.211Z",
+    "updatedAt": "2026-06-04T00:00:00.000Z",
+    "seoTitle": "Web Development Services | ADT SoftTech",
+    "metaDescription": "Business websites, SaaS platforms, custom web apps, portals, API integrations, and SEO-ready web development from ADT SoftTech.",
+    "focusKeyword": "web development services, business website development, SaaS development",
+    "canonicalUrl": "/services/web-development",
+    "robotsIndex": "index, follow",
+    "robotsFollow": true,
+    "ogTitle": "Web Development Services",
+    "ogDescription": "Websites, portals, SaaS platforms, and integrations.",
+    "ogImage": "",
+    "twitterTitle": "Web Development Services",
+    "twitterDescription": "Build modern business websites and web apps.",
+    "twitterImage": "",
+    "schemaType": "Service",
+    "sitemapEnabled": true,
+    "sitemapPriority": "0.8"
+  },
+  {
+    "id": "svc-mobile-app-development",
+    "title": "Mobile App Development",
+    "slug": "mobile-app-development",
+    "excerpt": "Flutter, Android, iOS, cross-platform apps, maintenance, and live mobile solutions.",
+    "body": "ADT SoftTech builds mobile apps for booking, transport, e-commerce, service businesses, creators, and internal operations.",
+    "featuredImage": "",
+    "galleryImages": [],
+    "contentBlocks": [],
+    "category": "Mobile Apps",
+    "tags": ["Flutter", "Android", "iOS", "Mobile App", "Firebase"],
+    "icon": "Smartphone",
+    "features": ["Flutter apps", "Android and iOS apps", "Cross-platform solutions", "Maintenance services", "Live mobile solutions"],
+    "pricingNote": "Custom pricing based on app scope, roles, backend, integrations, and store launch needs.",
+    "sortOrder": 3,
+    "homepageTabTitle": "Mobile",
+    "homepageShortDescription": "Launch mobile apps for customers, drivers, staff, creators, and business operations.",
+    "businessBenefits": ["Better customer experience", "Direct user engagement", "Operational data capture"],
+    "showOnHomepage": true,
+    "shortHeroDescription": "Cross-platform mobile applications for real business journeys, from booking to dashboards and support.",
+    "longIntroHeading": "Mobile apps that connect customers with real business operations",
+    "longIntroDescription": "We design and develop mobile apps that make services easier to use while sending useful operational data back to owners, admins, and dashboards.",
+    "heroImage": "",
+    "heroCTAButtonText": "Discuss App Idea",
+    "heroCTAButtonLink": "/contact?requestType=service_inquiry&serviceTitle=Mobile%20App%20Development",
+    "secondaryCTAButtonText": "View Portfolio",
+    "secondaryCTAButtonLink": "/portfolio",
+    "subServices": [
+      { "title": "Flutter Apps", "description": "Cross-platform Android and iOS applications with clean performance.", "order": 0 },
+      { "title": "Booking and Service Apps", "description": "Apps for rides, appointments, orders, communication, and tracking.", "order": 1 },
+      { "title": "App Maintenance", "description": "Bug fixes, updates, API changes, and feature improvements.", "order": 2 }
+    ],
+    "industryUseCases": [
+      { "name": "Transportation", "description": "Ride booking, driver workflows, trip status, and admin monitoring.", "order": 0 },
+      { "name": "Restaurants and E-commerce", "description": "Ordering, catalog browsing, payments, and customer communication.", "order": 1 },
+      { "name": "Creators and Service Providers", "description": "Community apps, booking flows, content access, and direct engagement.", "order": 2 }
+    ],
+    "benefits": [
+      { "title": "Customer Convenience", "description": "Let users book, order, track, message, and manage activity from their phone.", "order": 0 },
+      { "title": "Business Visibility", "description": "Capture useful activity data for reporting and operations.", "order": 1 },
+      { "title": "Scalable Foundation", "description": "Start with a practical MVP and expand features over time.", "order": 2 }
+    ],
+    "whyChooseUs": [
+      { "title": "Flutter expertise", "description": "We can build cross-platform mobile apps efficiently.", "order": 0 },
+      { "title": "Backend-aware delivery", "description": "Apps are planned with APIs, auth, admin, notifications, and data flow.", "order": 1 },
+      { "title": "Business use-case focus", "description": "We connect app features to real customer and admin workflows.", "order": 2 }
+    ],
+    "technologyStack": [
+      { "toolName": "Flutter", "category": "Mobile", "order": 0 },
+      { "toolName": "Firebase", "category": "Backend", "order": 1 },
+      { "toolName": "REST APIs", "category": "Integration", "order": 2 },
+      { "toolName": "Push Notifications", "category": "Engagement", "order": 3 }
+    ],
+    "developmentProcess": [
+      { "stepNumber": 1, "title": "App scope", "description": "We define user roles, journeys, screens, and core MVP features.", "order": 0 },
+      { "stepNumber": 2, "title": "UI and backend", "description": "We build the app interface and connect authentication, APIs, and storage.", "order": 1 },
+      { "stepNumber": 3, "title": "Testing", "description": "We test flows, devices, permissions, and edge cases.", "order": 2 },
+      { "stepNumber": 4, "title": "Launch support", "description": "We prepare release builds and support post-launch fixes.", "order": 3 }
+    ],
+    "caseStudies": [],
+    "relatedArticles": [],
+    "faqs": [
+      { "question": "Can you build both Android and iOS apps?", "answer": "Yes. Flutter lets us build cross-platform apps for Android and iOS from one codebase.", "order": 0 },
+      { "question": "Can the app connect to an admin dashboard?", "answer": "Yes. We can connect app activity to admin dashboards, reports, and backend workflows.", "order": 1 }
+    ],
+    "midPageCta": {
+      "heading": "Have a mobile app idea?",
+      "paragraph": "Tell us the business flow and we will suggest a practical MVP scope.",
+      "buttonText": "Plan Mobile App",
+      "buttonUrl": "/contact?requestType=service_inquiry&serviceTitle=Mobile%20App%20Development"
+    },
+    "finalCta": {
+      "heading": "Launch a mobile app with a clear business purpose",
+      "paragraph": "ADT SoftTech can design, build, and support your Flutter mobile application.",
+      "buttonText": "Start Mobile App Project",
+      "buttonUrl": "/contact"
+    },
+    "status": "published",
+    "publishedAt": "2026-05-18T15:20:56.211Z",
+    "createdAt": "2026-05-18T15:20:56.211Z",
+    "updatedAt": "2026-06-04T00:00:00.000Z",
+    "seoTitle": "Mobile App Development Services | ADT SoftTech",
+    "metaDescription": "Flutter, Android, iOS, cross-platform mobile app development, Firebase integration, and app maintenance from ADT SoftTech.",
+    "focusKeyword": "mobile app development, Flutter app development, Android iOS app",
+    "canonicalUrl": "/services/mobile-app-development",
+    "robotsIndex": "index, follow",
+    "robotsFollow": true,
+    "ogTitle": "Mobile App Development Services",
+    "ogDescription": "Flutter and cross-platform apps for business workflows.",
+    "ogImage": "",
+    "twitterTitle": "Mobile App Development Services",
+    "twitterDescription": "Build Android and iOS mobile apps with ADT SoftTech.",
+    "twitterImage": "",
+    "schemaType": "Service",
+    "sitemapEnabled": true,
+    "sitemapPriority": "0.8"
+  },
+  {
+    "id": "svc-automation-systems",
+    "title": "Automation Systems",
+    "slug": "automation-systems",
+    "excerpt": "n8n automation, Make.com workflows, Zapier integrations, AI workflow automation, and coding AI agents.",
+    "body": "ADT SoftTech automates repeated business work across forms, messages, CRM, reports, approvals, and notifications.",
+    "featuredImage": "",
+    "galleryImages": [],
+    "contentBlocks": [],
+    "category": "Automation",
+    "tags": ["Automation", "n8n", "Make", "Zapier", "AI Workflows"],
+    "icon": "Zap",
+    "features": ["n8n automation", "Make.com workflows", "Zapier integrations", "AI workflow automation", "Coding AI agents"],
+    "pricingNote": "Custom pricing based on workflow complexity, connected apps, and monitoring needs.",
+    "sortOrder": 4,
+    "homepageTabTitle": "Automation",
+    "homepageShortDescription": "Connect apps, reduce repeated work, and move data across your business automatically.",
+    "businessBenefits": ["Less manual work", "Faster handoffs", "More consistent operations"],
+    "showOnHomepage": true,
+    "shortHeroDescription": "Automation workflows that move information, trigger actions, notify teams, and reduce repetitive tasks.",
+    "longIntroHeading": "Automate routine work without making operations confusing",
+    "longIntroDescription": "We map your current process, identify repeated steps, connect tools, and build automation that saves time while keeping humans in control where approval is needed.",
+    "heroImage": "",
+    "heroCTAButtonText": "Discuss Automation",
+    "heroCTAButtonLink": "/contact?requestType=service_inquiry&serviceTitle=Automation%20Systems",
+    "secondaryCTAButtonText": "Read AI automation article",
+    "secondaryCTAButtonLink": "/articles",
+    "subServices": [
+      { "title": "n8n Workflows", "description": "Self-hosted or managed workflow automation with connected APIs and logic.", "order": 0 },
+      { "title": "Zapier and Make Automations", "description": "Fast no-code integrations between forms, CRM, email, sheets, and notifications.", "order": 1 },
+      { "title": "AI Workflow Automation", "description": "Use AI for summaries, classification, drafting, routing, and decision support.", "order": 2 }
+    ],
+    "industryUseCases": [
+      { "name": "Sales Teams", "description": "Lead routing, follow-ups, CRM updates, and quote notifications.", "order": 0 },
+      { "name": "Operations", "description": "Task handoffs, approvals, reports, and recurring notifications.", "order": 1 },
+      { "name": "Support Teams", "description": "Ticket summaries, customer replies, escalation, and status tracking.", "order": 2 }
+    ],
+    "benefits": [
+      { "title": "Time Savings", "description": "Reduce repeated admin work and manual copying between systems.", "order": 0 },
+      { "title": "Fewer Missed Steps", "description": "Automated workflows keep important tasks and notifications consistent.", "order": 1 },
+      { "title": "Better Visibility", "description": "Send workflow data into dashboards, logs, and reporting systems.", "order": 2 }
+    ],
+    "whyChooseUs": [
+      { "title": "Practical process mapping", "description": "We automate only after understanding the real workflow.", "order": 0 },
+      { "title": "AI plus integrations", "description": "Automation can include AI, APIs, dashboards, and business tools.", "order": 1 },
+      { "title": "Clear handoff", "description": "We document triggers, actions, fallbacks, and ownership.", "order": 2 }
+    ],
+    "technologyStack": [
+      { "toolName": "n8n", "category": "Automation", "order": 0 },
+      { "toolName": "Make.com", "category": "Automation", "order": 1 },
+      { "toolName": "Zapier", "category": "Automation", "order": 2 },
+      { "toolName": "Google Sheets", "category": "Business Tools", "order": 3 }
+    ],
+    "developmentProcess": [
+      { "stepNumber": 1, "title": "Workflow audit", "description": "We identify repeated tasks, data movement, approvals, and bottlenecks.", "order": 0 },
+      { "stepNumber": 2, "title": "Automation map", "description": "We define triggers, actions, conditions, and fallback handling.", "order": 1 },
+      { "stepNumber": 3, "title": "Build workflow", "description": "We connect tools, APIs, notifications, and data storage.", "order": 2 },
+      { "stepNumber": 4, "title": "Monitor and improve", "description": "We test logs, failures, and update workflows as the process changes.", "order": 3 }
+    ],
+    "caseStudies": [],
+    "relatedArticles": [],
+    "faqs": [
+      { "question": "Can automation connect with WhatsApp or email?", "answer": "Yes. We can connect forms, email, WhatsApp-friendly flows, CRM, sheets, and dashboards depending on available APIs.", "order": 0 },
+      { "question": "Do you automate with n8n?", "answer": "Yes. We can build n8n workflows along with Make.com, Zapier, and custom API automation.", "order": 1 }
+    ],
+    "midPageCta": {
+      "heading": "Spending too much time on repeated tasks?",
+      "paragraph": "Tell us the workflow and we will identify what can be automated safely.",
+      "buttonText": "Request Automation Audit",
+      "buttonUrl": "/contact?requestType=service_inquiry&serviceTitle=Automation%20Systems"
+    },
+    "finalCta": {
+      "heading": "Automate the work that slows your team down",
+      "paragraph": "ADT SoftTech can build connected workflows for leads, reports, approvals, messages, and operations.",
+      "buttonText": "Start Automation Project",
+      "buttonUrl": "/contact"
+    },
+    "status": "published",
+    "publishedAt": "2026-05-18T15:20:56.211Z",
+    "createdAt": "2026-05-18T15:20:56.211Z",
+    "updatedAt": "2026-06-04T00:00:00.000Z",
+    "seoTitle": "Automation Systems | ADT SoftTech",
+    "metaDescription": "n8n automation, Make.com workflows, Zapier integrations, AI workflow automation, and business process automation from ADT SoftTech.",
+    "focusKeyword": "automation systems, n8n automation, workflow automation, AI automation",
+    "canonicalUrl": "/services/automation-systems",
+    "robotsIndex": "index, follow",
+    "robotsFollow": true,
+    "ogTitle": "Automation Systems",
+    "ogDescription": "Automate repeated business workflows with ADT SoftTech.",
+    "ogImage": "",
+    "twitterTitle": "Automation Systems",
+    "twitterDescription": "n8n, Make, Zapier, and AI workflow automation.",
+    "twitterImage": "",
+    "schemaType": "Service",
+    "sitemapEnabled": true,
+    "sitemapPriority": "0.8"
+  }
+]

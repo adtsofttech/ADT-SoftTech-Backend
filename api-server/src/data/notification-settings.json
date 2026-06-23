@@ -1,0 +1,10 @@
+{
+  "emailEnabled": true,
+  "emailRecipients": "info@adtsofttech.com",
+  "whatsappEnabled": true,
+  "whatsappAdminNumber": "+923317203878",
+  "webhookEnabled": false,
+  "webhookUrl": "",
+  "webhookSecret": "",
+  "portalApprovalFlow": "account_activation"
+}

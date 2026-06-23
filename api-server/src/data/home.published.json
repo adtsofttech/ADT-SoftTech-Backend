@@ -1,0 +1,1064 @@
+{
+  "_meta": {
+    "status": "published",
+    "lastSavedAt": "2026-06-22T11:27:23.543Z",
+    "publishedAt": "2026-06-22T11:27:23.543Z"
+  },
+  "homepageLayout": [
+    {
+      "id": "hero",
+      "label": "Hero Section",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "trust",
+      "label": "Business Intelligence / Hero Visual Block",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "about",
+      "label": "About / Intro Section",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "services",
+      "label": "Services Showcase Section",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "products",
+      "label": "Products Showcase Section",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "industries",
+      "label": "Industries Showcase Section",
+      "visible": true,
+      "order": 5
+    },
+    {
+      "id": "portfolio",
+      "label": "Portfolio / Case Studies Showcase Section",
+      "visible": true,
+      "order": 6
+    },
+    {
+      "id": "whyChoose",
+      "label": "Why ADT Section",
+      "visible": true,
+      "order": 7
+    },
+    {
+      "id": "metrics",
+      "label": "Metrics / Stats Section",
+      "visible": true,
+      "order": 8
+    },
+    {
+      "id": "process",
+      "label": "Methodology Section",
+      "visible": true,
+      "order": 9
+    },
+    {
+      "id": "technology",
+      "label": "Technology Section",
+      "visible": false,
+      "order": 10
+    },
+    {
+      "id": "values",
+      "label": "Values Section",
+      "visible": false,
+      "order": 11
+    },
+    {
+      "id": "freeValue",
+      "label": "Free Value Section",
+      "visible": false,
+      "order": 12
+    },
+    {
+      "id": "testimonials",
+      "label": "Testimonials Section",
+      "visible": true,
+      "order": 13
+    },
+    {
+      "id": "insights",
+      "label": "Insights / Articles Preview",
+      "visible": false,
+      "order": 14
+    },
+    {
+      "id": "faq",
+      "label": "FAQ Section",
+      "visible": false,
+      "order": 15
+    },
+    {
+      "id": "finalCta",
+      "label": "Final CTA Section",
+      "visible": true,
+      "order": 16
+    }
+  ],
+  "homeCardSections": {
+    "topFeatures": {
+      "visible": true,
+      "animationEnabled": true,
+      "animationPreset": "fade-up",
+      "hoverEnabled": true,
+      "cards": [
+        {
+          "id": "a1",
+          "title": "Turn Data into Decisions",
+          "desc": "Transform raw business data into dashboards, KPIs, and executive-ready insights.",
+          "icon": "analytics",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "a2",
+          "title": "Automate Repetitive Workflows",
+          "desc": "Reduce manual handoffs with AI agents, workflow automation, and integrated systems.",
+          "icon": "automation",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "a3",
+          "title": "Build Future-Ready Digital Products",
+          "desc": "Launch scalable web, mobile, and SaaS platforms designed for growth.",
+          "icon": "web",
+          "visible": true,
+          "order": 2
+        }
+      ]
+    },
+    "capabilities": {
+      "visible": true,
+      "animationEnabled": true,
+      "animationPreset": "fade-up",
+      "hoverEnabled": true,
+      "cards": [
+        {
+          "id": "t1",
+          "title": "AI Agents",
+          "desc": "Chatbots, support assistants, and workflow copilots.",
+          "icon": "ai",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "t2",
+          "title": "BI Dashboards",
+          "desc": "Power BI, KPI reporting, and decision intelligence.",
+          "icon": "analytics",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "t3",
+          "title": "Web & Mobile Apps",
+          "desc": "Scalable digital products for real business workflows.",
+          "icon": "mobile",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "t4",
+          "title": "Workflow Automation",
+          "desc": "N8N, Make.com, Zapier, and custom automation.",
+          "icon": "automation",
+          "visible": true,
+          "order": 3
+        },
+        {
+          "id": "t5",
+          "title": "Predictive Analytics",
+          "desc": "Forecasting, segmentation, and smarter planning.",
+          "icon": "database",
+          "visible": true,
+          "order": 4
+        },
+        {
+          "id": "t6",
+          "title": "Custom Software",
+          "desc": "Business systems built around your operations.",
+          "icon": "web",
+          "visible": true,
+          "order": 5
+        }
+      ]
+    }
+  },
+  "whyAdtSection": {
+    "sectionKey": "whyAdt",
+    "badgeText": "Why ADT",
+    "heading": "Why Choose ADT SoftTech?",
+    "subtitle": "A practical delivery partner for AI, analytics, automation, mobile, and software engineering.",
+    "backgroundType": "gradient",
+    "backgroundColor": "#020617",
+    "backgroundGradient": "linear-gradient(135deg, #020617 0%, #07111f 48%, #111827 100%)",
+    "backgroundMediaUrl": "/api/cms/uploads/Overveiw_Dashoard__1__1778931622051.png",
+    "backgroundOverlayColor": "#020617",
+    "backgroundOverlayOpacity": 68,
+    "backgroundPosition": "center",
+    "backgroundSize": "cover",
+    "backgroundRepeat": "no-repeat",
+    "sectionPadding": "py-24 lg:py-28",
+    "sectionMinHeight": "",
+    "textColor": "#ffffff",
+    "headingColor": "#ffffff",
+    "subtitleColor": "#cbd5e1",
+    "cardBackgroundColor": "rgba(15, 23, 42, 0.72)",
+    "cardBorderColor": "rgba(148, 163, 184, 0.18)",
+    "cardGlowColor": "rgba(34, 211, 238, 0.28)",
+    "cards": [
+      {
+        "id": "why-proven-track-record",
+        "title": "Proven Track Record",
+        "description": "We focus on solving practical business challenges through measurable digital solutions.",
+        "icon": "values",
+        "isVisible": true,
+        "isPublished": true,
+        "sortOrder": 0,
+        "accentColor": "#22d3ee",
+        "styleVariant": "glass"
+      },
+      {
+        "id": "why-industry-expertise",
+        "title": "Industry-Specific Expertise",
+        "description": "We design solutions around the real workflows, standards, and requirements of your industry.",
+        "icon": "process",
+        "isVisible": true,
+        "isPublished": true,
+        "sortOrder": 1,
+        "accentColor": "#60a5fa",
+        "styleVariant": "glass"
+      },
+      {
+        "id": "why-multidisciplinary-team",
+        "title": "Skilled Multidisciplinary Team",
+        "description": "We combine analytics, AI, automation, mobile, and software engineering under one strategy.",
+        "icon": "users",
+        "isVisible": true,
+        "isPublished": true,
+        "sortOrder": 2,
+        "accentColor": "#a78bfa",
+        "styleVariant": "glass"
+      },
+      {
+        "id": "why-global-expansion",
+        "title": "Global Expansion",
+        "description": "Professional connections across Canada, KSA, UAE, and Pakistan support agile global collaboration.",
+        "icon": "network",
+        "isVisible": true,
+        "isPublished": true,
+        "sortOrder": 3,
+        "accentColor": "#22d3ee",
+        "styleVariant": "glass"
+      },
+      {
+        "id": "why-on-time-delivery",
+        "title": "On-Time Delivery",
+        "description": "Clear scoping, milestone-driven execution, and reliable delivery timelines.",
+        "icon": "process",
+        "isVisible": true,
+        "isPublished": true,
+        "sortOrder": 4,
+        "accentColor": "#38bdf8",
+        "styleVariant": "glass"
+      },
+      {
+        "id": "why-premium-value",
+        "title": "Premium Value",
+        "description": "Flexible engagement options including fixed-price work, hourly support, and dedicated delivery models.",
+        "icon": "sparkles",
+        "isVisible": true,
+        "isPublished": true,
+        "sortOrder": 5,
+        "accentColor": "#c084fc",
+        "styleVariant": "glass"
+      }
+    ]
+  },
+  "hero": {
+    "visible": true,
+    "badge": "Software Engineering & Intelligence with Data & AI",
+    "heading": "Building Intelligent Digital Systems with AI, Analytics, and Automation",
+    "description": "ADT SoftTech helps startups, SMEs, and enterprises transform raw data into scalable software, AI agents, dashboards, and automation systems that drive smarter decisions and faster growth.",
+    "backgroundImage": "/api/cms/uploads/1_1778857547664.png",
+    "backgroundOpacity": 66,
+    "buttons": [
+      {
+        "id": "b1",
+        "text": "Get Free Consultation",
+        "link": "/free-services",
+        "variant": "primary",
+        "visible": true,
+        "icon": "Gift"
+      },
+      {
+        "id": "b2",
+        "text": "Explore Our Services",
+        "link": "/services",
+        "variant": "outline",
+        "visible": true
+      },
+      {
+        "id": "b3",
+        "text": "View Portfolio",
+        "link": "/portfolio",
+        "variant": "glass",
+        "icon": "Briefcase",
+        "visible": true
+      }
+    ]
+  },
+  "stats": {
+    "visible": true,
+    "items": [
+      {
+        "id": "s1",
+        "value": "50+",
+        "label": "Projects Delivered",
+        "icon": "Briefcase",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "s2",
+        "value": "30+",
+        "label": "Happy Clients",
+        "icon": "Users",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "s3",
+        "value": "5+",
+        "label": "AI Products",
+        "icon": "Package",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "s4",
+        "value": "99%",
+        "label": "Client Satisfaction",
+        "icon": "Star",
+        "visible": true,
+        "order": 3
+      }
+    ]
+  },
+  "showcase": {
+    "visible": true,
+    "sectionTitle": "Portfolio",
+    "sectionTitleHighlight": "Highlights",
+    "sectionSubtitle": "Explore ADT SoftTech work across finance analytics, retail intelligence, HR dashboards, e-commerce analytics, and predictive modeling.",
+    "viewAllText": "View Case Studies",
+    "viewAllLink": "/portfolio",
+    "items": [
+      {
+        "id": "sw1",
+        "tag": "Finance Analytics",
+        "title": "Bank Loan Dashboard",
+        "desc": "Loan portfolio dashboard with reported +27% decision-review accuracy improvement.",
+        "color": "from-blue-500 to-cyan-400",
+        "icon": "BarChart3",
+        "visible": true,
+        "order": 0,
+        "image": "/api/cms/uploads/Overveiw_Dashoard__1__1778857656862.png"
+      },
+      {
+        "id": "sw2",
+        "tag": "Excel Dashboard",
+        "title": "Coffee Shop Sales Dashboard",
+        "desc": "Multi-branch coffee shop sales dashboard with $698,812.33 in analyzed revenue, footfall tracking, product insights, and store comparisons.",
+        "color": "from-purple-500 to-indigo-400",
+        "icon": "BarChart3",
+        "visible": true,
+        "order": 1,
+        "image": "/api/cms/uploads/coffee-shop-sales-dashboard-cover.png"
+      },
+      {
+        "id": "sw3",
+        "tag": "Predictive Analytics",
+        "title": "Customer Churn Analysis",
+        "desc": "Retention analytics and customer segmentation for data-driven growth teams.",
+        "color": "from-emerald-400 to-teal-500",
+        "icon": "Zap",
+        "visible": true,
+        "order": 2
+      }
+    ]
+  },
+  "freeServices": {
+    "visible": true,
+    "badge": "Free Services & Lead Magnets",
+    "heading": "Start with",
+    "headingHighlight": "Clarity",
+    "description": "Book a free consultation, get problem analysis, explore solution suggestions, and receive startup guidance before committing to a build.",
+    "primaryButtonText": "Claim Your Free Services",
+    "primaryButtonLink": "/free-services",
+    "secondaryButtonText": "Email Us Directly",
+    "secondaryButtonEmail": "info@adtsofttech.com",
+    "items": [
+      {
+        "id": "fs1",
+        "title": "Free Consultation",
+        "desc": "A focused discovery call to understand your business challenge.",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "fs2",
+        "title": "Problem Analysis",
+        "desc": "We identify workflow, data, and software bottlenecks.",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "fs3",
+        "title": "Solution Suggestions",
+        "desc": "Practical AI, analytics, automation, or app ideas.",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "fs4",
+        "title": "Startup Guidance",
+        "desc": "Tech-stack and roadmap advice for early-stage teams.",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "fs5",
+        "title": "Free Templates",
+        "desc": "Starter resources for dashboards, systems, and planning.",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "fs6",
+        "title": "Free Courses",
+        "desc": "Learning resources around AI, analytics, and automation.",
+        "visible": true,
+        "order": 5
+      }
+    ]
+  },
+  "testimonials": {
+    "visible": true,
+    "sectionTitle": "What Our Clients Say",
+    "sectionSubtitle": "Real feedback from real businesses we've helped transform.",
+    "items": [
+      {
+        "id": "t1",
+        "name": "Sarah Mitchell",
+        "role": "CTO, FinEdge Solutions",
+        "text": "ADT SoftTech delivered an AI agent that reduced our support tickets by 70%. Their technical depth is unmatched.",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "t2",
+        "name": "James Rodriguez",
+        "role": "Operations Director, LogiTrack",
+        "text": "The N8N automation they built saved our team 40 hours per week. Incredible ROI within the first month.",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "t3",
+        "name": "Amara Okafor",
+        "role": "CEO, DataPulse Analytics",
+        "text": "Their Power BI dashboards transformed how we make decisions. Real-time insights that actually drive action.",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "t4",
+        "name": "David Chen",
+        "role": "VP Engineering, CloudStack",
+        "text": "Working with ADT SoftTech felt like having an extension of our own engineering team. Highly professional.",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "t5",
+        "name": "Priya Sharma",
+        "role": "Founder, EduNest",
+        "text": "They built our entire learning platform from scratch — mobile app, backend, analytics. Flawless execution.",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "t6",
+        "name": "Marcus Weber",
+        "role": "Head of Digital, RetailMax",
+        "text": "Our e-commerce analytics dashboard reduced stockouts by 45%. The data visibility is transformative.",
+        "visible": true,
+        "order": 5
+      },
+      {
+        "id": "t7",
+        "name": "Fatima Al-Hassan",
+        "role": "Director, HealthBridge AI",
+        "text": "The AI chatbot they deployed handles patient queries 24/7. Our staff can now focus on critical cases.",
+        "visible": true,
+        "order": 6
+      },
+      {
+        "id": "t8",
+        "name": "Thomas Erikson",
+        "role": "CIO, Nordic Finance Group",
+        "text": "Enterprise-grade quality at startup speed. Their team understood our compliance needs from day one.",
+        "visible": true,
+        "order": 7
+      },
+      {
+        "id": "t9",
+        "name": "Lisa Park",
+        "role": "Product Manager, AppForge",
+        "text": "The Flutter app they built launched on both platforms in 3 months. 10K downloads in the first week.",
+        "visible": true,
+        "order": 8
+      },
+      {
+        "id": "t10",
+        "name": "Ahmed Khalil",
+        "role": "Managing Director, Gulf Ventures",
+        "text": "Their strategic consulting helped us identify $2M in automation savings. ADT SoftTech is a true partner.",
+        "visible": true,
+        "order": 9
+      },
+      {
+        "id": "t11",
+        "name": "Rebecca Torres",
+        "role": "HR Director, TalentSphere",
+        "text": "The HR screening agent cut our hiring process time by 60%. The AI interview system is brilliant.",
+        "visible": true,
+        "order": 10
+      },
+      {
+        "id": "t12",
+        "name": "Michael Foster",
+        "role": "CEO, GreenTech Innovations",
+        "text": "From consultation to deployment, ADT SoftTech exceeded every expectation. World-class engineering team.",
+        "visible": true,
+        "order": 11
+      },
+      {
+        "id": "t13",
+        "name": "Nina Petrov",
+        "role": "Data Lead, MarketView",
+        "text": "Their predictive analytics model improved our forecast accuracy by 27%. Data-driven decisions made easy.",
+        "visible": true,
+        "order": 12
+      },
+      {
+        "id": "t14",
+        "name": "Carlos Mendez",
+        "role": "Founder, QuickShip Logistics",
+        "text": "The workflow automation eliminated all manual data entry. Our error rate dropped to nearly zero.",
+        "visible": true,
+        "order": 13
+      },
+      {
+        "id": "t15",
+        "name": "Emily Watson",
+        "role": "COO, PixelCraft Studios",
+        "text": "ADT SoftTech's free consultation alone gave us a roadmap worth thousands. Their generosity is genuine.",
+        "visible": true,
+        "order": 14
+      }
+    ]
+  },
+  "industries": {
+    "visible": true,
+    "sectionTitle": "Industries We Empower",
+    "items": [
+      {
+        "id": "i1",
+        "name": "Healthcare",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "i2",
+        "name": "Finance",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "i3",
+        "name": "Retail",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "i4",
+        "name": "E-commerce",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "i5",
+        "name": "Education",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "i6",
+        "name": "Technology Startups",
+        "visible": true,
+        "order": 5
+      },
+      {
+        "id": "i7",
+        "name": "Logistics",
+        "visible": true,
+        "order": 6
+      }
+    ]
+  },
+  "branding": {
+    "faviconUrl": "/favicon.png",
+    "appleTouchIconUrl": "/logo-square.png"
+  },
+  "navbar": {
+    "brandName": "ADT SoftTech",
+    "logoUrl": "/brand-logo.gif",
+    "links": [
+      {
+        "id": "n1",
+        "name": "Home",
+        "path": "/",
+        "visible": true,
+        "order": 0,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 0,
+        "sortOrderFooter": 0,
+        "sortOrderMobile": 0,
+        "openInNewTab": false
+      },
+      {
+        "id": "n2",
+        "name": "About",
+        "path": "/about",
+        "visible": true,
+        "order": 1,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 1,
+        "sortOrderFooter": 1,
+        "sortOrderMobile": 1,
+        "openInNewTab": false
+      },
+      {
+        "id": "n3",
+        "name": "Services",
+        "path": "/services",
+        "visible": true,
+        "order": 2,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 2,
+        "sortOrderFooter": 2,
+        "sortOrderMobile": 2,
+        "openInNewTab": false
+      },
+      {
+        "id": "n4",
+        "name": "Products",
+        "path": "/products",
+        "visible": false,
+        "order": 3,
+        "showInHeaderNav": false,
+        "showInFooterNav": false,
+        "showInMobileNav": false,
+        "sortOrderHeader": 3,
+        "sortOrderFooter": 3,
+        "sortOrderMobile": 3,
+        "openInNewTab": false
+      },
+      {
+        "id": "n5",
+        "name": "Products & Portfolio",
+        "path": "/portfolio",
+        "visible": true,
+        "order": 4,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 4,
+        "sortOrderFooter": 4,
+        "sortOrderMobile": 4,
+        "openInNewTab": false
+      },
+      {
+        "id": "n6",
+        "name": "Articles",
+        "path": "/articles",
+        "visible": true,
+        "order": 5,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 5,
+        "sortOrderFooter": 5,
+        "sortOrderMobile": 5,
+        "openInNewTab": false
+      },
+      {
+        "id": "n7",
+        "name": "Free Services",
+        "path": "/free-services",
+        "visible": true,
+        "order": 6,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 6,
+        "sortOrderFooter": 6,
+        "sortOrderMobile": 6,
+        "openInNewTab": false
+      },
+      {
+        "id": "n8",
+        "name": "Support",
+        "path": "/support",
+        "visible": true,
+        "order": 7,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 7,
+        "sortOrderFooter": 7,
+        "sortOrderMobile": 7,
+        "openInNewTab": false
+      },
+      {
+        "id": "n9",
+        "name": "Contact",
+        "path": "/contact",
+        "visible": true,
+        "order": 8,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 8,
+        "sortOrderFooter": 8,
+        "sortOrderMobile": 8,
+        "openInNewTab": false
+      },
+      {
+        "id": "n10",
+        "name": "Client Portal",
+        "path": "/portal",
+        "visible": true,
+        "order": 9,
+        "showInHeaderNav": true,
+        "showInFooterNav": true,
+        "showInMobileNav": true,
+        "sortOrderHeader": 9,
+        "sortOrderFooter": 9,
+        "sortOrderMobile": 9,
+        "openInNewTab": false
+      },
+      {
+        "id": "n11",
+        "name": "Privacy Policy",
+        "path": "/privacy",
+        "visible": true,
+        "order": 10,
+        "showInHeaderNav": false,
+        "showInFooterNav": true,
+        "showInMobileNav": false,
+        "sortOrderHeader": 10,
+        "sortOrderFooter": 10,
+        "sortOrderMobile": 10,
+        "openInNewTab": false
+      },
+      {
+        "id": "n12",
+        "name": "Terms of Service",
+        "path": "/terms",
+        "visible": true,
+        "order": 11,
+        "showInHeaderNav": false,
+        "showInFooterNav": true,
+        "showInMobileNav": false,
+        "sortOrderHeader": 11,
+        "sortOrderFooter": 11,
+        "sortOrderMobile": 11,
+        "openInNewTab": false
+      }
+    ]
+  },
+  "footer": {
+    "brandName": "ADT SoftTech",
+    "logoUrl": "/brand-logo.gif",
+    "description": "ADT SoftTech means Analytics ? Development ? Transformation. We build intelligent software systems with AI, analytics, automation, web, and mobile engineering.",
+    "email": "info@adtsofttech.com",
+    "phone": "+92 331 720 3878",
+    "whatsappLink": "https://wa.me/923317203878",
+    "copyright": "@2026 ADT SoftTech. All rights reserved.",
+    "socialLinks": [
+      {
+        "id": "sl2",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/adtsofttech/",
+        "visible": true,
+        "iconUrl": "data:image/png;base64,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"
+      },
+      {
+        "id": "yszigjbp",
+        "name": "X",
+        "url": "https://x.com/adtsofttech",
+        "visible": true,
+        "iconUrl": "data:image/png;base64,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"
+      },
+      {
+        "id": "eqiq9se1",
+        "name": "Linkedin Page",
+        "url": "https://www.linkedin.com/company/adtsofttech/",
+        "visible": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGLYdqVv4KgzIn09KUvHNMohUTnSZFbtu8Q&s"
+      },
+      {
+        "id": "9594o0ze",
+        "name": "Whatsapp Channel",
+        "url": "https://whatsapp.com/channel/0029Vb8eJK71SWsvtSp4f51I",
+        "visible": true,
+        "iconUrl": "data:image/png;base64,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"
+      },
+      {
+        "id": "pmpe9ro2",
+        "name": "Facebook Page",
+        "url": "https://web.facebook.com/profile.php?id=61591095876518",
+        "visible": true,
+        "iconUrl": "https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=210"
+      }
+    ],
+    "showPrivacyPolicy": true,
+    "showTerms": true,
+    "background": {
+      "type": "default",
+      "color": "#020617",
+      "gradient": "linear-gradient(135deg, #020617 0%, #0f172a 55%, #111827 100%)",
+      "mediaUrl": "",
+      "position": "center",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "overlayColor": "#020617",
+      "overlayOpacity": 35,
+      "textColor": "",
+      "linkColor": ""
+    }
+  },
+  "seo": {
+    "metaTitle": "ADT SoftTech | AI, Analytics & Software Development Company",
+    "metaDescription": "ADT SoftTech builds intelligent digital systems using AI, data analytics, automation, web development, and mobile applications for startups, SMEs, and enterprises.",
+    "keywords": "AI development company, data analytics, software development, automation systems, ADT SoftTech",
+    "canonical": "/",
+    "robots": "index, follow",
+    "ogTitle": "ADT SoftTech",
+    "ogDescription": "Building intelligent digital systems with AI, analytics, and automation.",
+    "ogImage": "",
+    "twitterTitle": "ADT SoftTech",
+    "twitterDescription": "AI, analytics, automation, web, and mobile software company.",
+    "twitterImage": ""
+  },
+  "productsShowcase": {
+    "visible": true,
+    "badge": "Products",
+    "title": "AI Products and Smart Business Assistants",
+    "subtitle": "Featured assistants designed to automate operations, reporting, support, hiring, and internal knowledge access.",
+    "theme": {
+      "backgroundColor": "#F8FAFC",
+      "activeGradient": "from-blue-600 via-cyan-500 to-violet-600",
+      "headingColor": "#020617",
+      "cardColor": "#ffffff",
+      "buttonColor": "#2563eb",
+      "accentColor": "#2563eb",
+      "depth": "soft3d",
+      "ctaSpacing": "compact"
+    }
+  },
+  "industriesShowcase": {
+    "visible": true,
+    "badge": "Industries",
+    "title": "Industry-Focused Digital Solutions",
+    "subtitle": "We design intelligent software, automation, and analytics systems around the real needs of modern industries.",
+    "theme": {
+      "backgroundColor": "#ffffff",
+      "activeGradient": "from-fuchsia-600 via-violet-600 to-blue-600",
+      "headingColor": "#020617",
+      "cardColor": "#ffffff",
+      "buttonColor": "#7c3aed",
+      "accentColor": "#7c3aed",
+      "depth": "soft3d",
+      "ctaSpacing": "compact"
+    },
+    "items": [
+      {
+        "id": "industry-healthcare",
+        "title": "Healthcare",
+        "slug": "healthcare",
+        "intro": "AI-powered healthcare dashboards, patient workflow systems, and operational analytics.",
+        "highlights": [
+          "Patient workflow visibility",
+          "Healthcare dashboard systems",
+          "Operational intelligence",
+          "Data-supported decision making"
+        ],
+        "status": "published",
+        "showOnHomepage": true,
+        "homepageSortOrder": 0,
+        "icon": "HeartPulse"
+      },
+      {
+        "id": "industry-finance",
+        "title": "Finance",
+        "slug": "finance",
+        "intro": "Loan analytics, fraud monitoring, business intelligence, and decision-support systems.",
+        "highlights": [
+          "Risk visibility",
+          "Loan and portfolio analytics",
+          "Fraud monitoring support",
+          "Executive reporting systems"
+        ],
+        "status": "published",
+        "showOnHomepage": true,
+        "homepageSortOrder": 1,
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "id": "industry-retail",
+        "title": "Retail",
+        "slug": "retail",
+        "intro": "Sales analytics, store dashboards, product insights, and inventory intelligence.",
+        "highlights": [
+          "Store performance tracking",
+          "Sales dashboards",
+          "Product-level insights",
+          "Inventory decision support"
+        ],
+        "status": "published",
+        "showOnHomepage": true,
+        "homepageSortOrder": 2,
+        "icon": "Store"
+      },
+      {
+        "id": "industry-ecommerce",
+        "title": "E-commerce",
+        "slug": "e-commerce",
+        "intro": "Customer behavior analysis, product performance tracking, and automation.",
+        "highlights": [
+          "Customer journey insights",
+          "Product conversion analysis",
+          "Workflow automation",
+          "Reporting for growth decisions"
+        ],
+        "status": "published",
+        "showOnHomepage": true,
+        "homepageSortOrder": 3,
+        "icon": "ShoppingBag"
+      },
+      {
+        "id": "industry-education",
+        "title": "Education",
+        "slug": "education",
+        "intro": "Learning platforms, performance dashboards, and education analytics.",
+        "highlights": [
+          "Student performance reporting",
+          "Learning product systems",
+          "Education dashboards",
+          "Operational monitoring"
+        ],
+        "status": "published",
+        "showOnHomepage": true,
+        "homepageSortOrder": 4,
+        "icon": "GraduationCap"
+      },
+      {
+        "id": "industry-technology-startups",
+        "title": "Technology Startups",
+        "slug": "technology-startups",
+        "intro": "MVP development, scalable SaaS platforms, and AI-powered products.",
+        "highlights": [
+          "MVP planning",
+          "SaaS engineering",
+          "AI-based startup solutions",
+          "Scalable product architecture"
+        ],
+        "status": "published",
+        "showOnHomepage": true,
+        "homepageSortOrder": 5,
+        "icon": "Rocket"
+      },
+      {
+        "id": "industry-logistics",
+        "title": "Logistics",
+        "slug": "logistics",
+        "intro": "Operational dashboards, tracking systems, and workflow automation.",
+        "highlights": [
+          "Delivery and process visibility",
+          "Tracking dashboards",
+          "Workflow optimization",
+          "Performance reporting"
+        ],
+        "status": "published",
+        "showOnHomepage": true,
+        "homepageSortOrder": 6,
+        "icon": "Truck"
+      },
+      {
+        "id": "industry-hr-tech",
+        "title": "HR Tech",
+        "slug": "hr-tech",
+        "intro": "Recruitment analytics, screening workflows, and workforce intelligence.",
+        "highlights": [
+          "Hiring dashboards",
+          "Candidate screening flows",
+          "Workforce reporting",
+          "Recruitment process visibility"
+        ],
+        "status": "published",
+        "showOnHomepage": true,
+        "homepageSortOrder": 7,
+        "icon": "Users"
+      }
+    ]
+  },
+  "portfolioShowcase": {
+    "visible": true,
+    "badge": "Case Studies",
+    "title": "Selected Work That Shows Our Impact",
+    "subtitle": "Public portfolio highlights showing analytics, intelligence, and decision-support capability.",
+    "theme": {
+      "backgroundColor": "#F8FAFC",
+      "activeGradient": "from-slate-950 via-blue-700 to-cyan-500",
+      "headingColor": "#020617",
+      "cardColor": "#ffffff",
+      "buttonColor": "#0f172a",
+      "accentColor": "#2563eb",
+      "depth": "strong3d",
+      "ctaSpacing": "compact"
+    }
+  }
+}

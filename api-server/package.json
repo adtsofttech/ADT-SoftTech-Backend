@@ -1,0 +1,32 @@
+{
+  "name": "@workspace/api-server",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx ./src/index.ts",
+    "build": "tsx ./build.ts",
+    "build:with-frontend": "tsx -e \"process.env.INCLUDE_FRONTEND_BUILD='true'; await import('./build.ts')\"",
+    "start": "node ./dist/server/index.mjs",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@types/multer": "^2.1.0",
+    "@workspace/api-zod": "workspace:*",
+    "@workspace/db": "workspace:*",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2",
+    "drizzle-orm": "catalog:",
+    "express": "^5",
+    "firebase-admin": "^13.6.0",
+    "multer": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.10",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "catalog:",
+    "esbuild": "^0.27.3",
+    "tsx": "catalog:"
+  }
+}

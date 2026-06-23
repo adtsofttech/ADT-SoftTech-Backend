@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "status": "draft",
+    "lastSavedAt": "2026-06-02T17:12:01.706Z",
+    "publishedAt": null
+  },
+  "hero": {
+    "visible": true,
+    "badge": "Our Work",
+    "heading": "Our",
+    "headingHighlight": "Case Studies",
+    "subheading": "Real-world problems solved with elegant engineering."
+  },
+  "categories": [],
+  "items": [],
+  "seo": {
+    "metaTitle": "Case Studies - ADT SoftTech",
+    "metaDescription": "Real-world AI, data analytics, and automation projects delivered by ADT SoftTech.",
+    "keywords": "case studies, AI projects, data analytics portfolio",
+    "canonical": "",
+    "robots": "index, follow",
+    "ogTitle": "",
+    "ogDescription": "",
+    "ogImage": "",
+    "twitterTitle": "",
+    "twitterDescription": "",
+    "twitterImage": ""
+  }
+}

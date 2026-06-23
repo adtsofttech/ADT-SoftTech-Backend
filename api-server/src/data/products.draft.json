@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "status": "published",
+    "lastSavedAt": "2026-06-02T16:51:39.470Z",
+    "publishedAt": "2026-06-02T16:51:39.470Z"
+  },
+  "hero": {
+    "visible": true,
+    "heading": "AI Products for",
+    "headingHighlight": "Business Operations",
+    "description": "Practical AI agents and automation products that help teams handle support, reporting, hiring, workflows, and internal knowledge."
+  },
+  "liveProducts": {
+    "visible": true,
+    "sectionTitle": "Live Products",
+    "items": [
+      {
+        "id": "lp-apnaflix",
+        "title": "ApnaFlix - AI-Powered Mini YouTube & Reels App",
+        "detailSlug": "apnaflix-ai-powered-mini-youtube-reels-app",
+        "icon": "Smartphone",
+        "image": "/api/cms/uploads/apnaflix-app-icon.webp",
+        "gallery": [
+          "/api/cms/uploads/apnaflix-google-play-01.webp",
+          "/api/cms/uploads/apnaflix-google-play-02.webp",
+          "/api/cms/uploads/apnaflix-google-play-04.webp"
+        ],
+        "logo": "/api/cms/uploads/apnaflix-app-icon.webp",
+        "description": "A live Android video platform for reels, cartoons, shows, news, multilingual AI summaries, text-to-speech, and creator-owned content experiences.",
+        "longDescription": "ApnaFlix is a live Android entertainment and video content app developed by ADT SoftTech. It works as a mini YouTube-style platform where users can watch reels, short videos, cartoons, shows, trending content, and news updates in one smooth mobile experience. Its AI Video Summarizer helps users save time by converting long videos into short 5-6 point summaries in multiple languages. A user can quickly understand the key ideas from a 10-minute video in around 1 to 1.5 minutes. Text-to-speech support makes summaries and news content easier to consume. ApnaFlix is a strong product model for YouTubers, influencers, cartoon creators, media brands, educational creators, and entertainment companies that want their own branded content app with future monetization options.",
+        "tags": [
+          "Mini YouTube App",
+          "AI Video Summarizer",
+          "Reels App",
+          "Cartoon App",
+          "Entertainment App",
+          "Creator Platform",
+          "Influencer App",
+          "News App",
+          "Text-to-Speech",
+          "Multilingual App",
+          "Android App",
+          "Live Product"
+        ],
+        "features": [
+          {
+            "id": "lp-apnaflix-f1",
+            "text": "Mini YouTube-style platform for reels, cartoons, shows, and trending videos",
+            "visible": true
+          },
+          {
+            "id": "lp-apnaflix-f2",
+            "text": "AI video summarizer with concise 5-6 point multilingual summaries",
+            "visible": true
+          },
+          {
+            "id": "lp-apnaflix-f3",
+            "text": "News updates, category browsing, and text-to-speech support",
+            "visible": true
+          },
+          {
+            "id": "lp-apnaflix-f4",
+            "text": "Creator-owned branded content experience with future monetization options",
+            "visible": true
+          }
+        ],
+        "ctaText": "Open App on Google Play",
+        "ctaLink": "https://play.google.com/store/apps/details?id=com.newsifyx.app",
+        "status": "Live on Google Play",
+        "seoTitle": "ApnaFlix - AI Mini YouTube, Reels & Video Summarizer App | ADT SoftTech",
+        "metaDescription": "ApnaFlix is a live Android mini YouTube-style app by ADT SoftTech featuring reels, cartoons, shows, news, AI video summaries, multilingual support, text-to-speech, and creator-owned content platform features.",
+        "focusKeyword": "ApnaFlix AI mini YouTube reels video summarizer app",
+        "visible": true,
+        "order": 6
+      }
+    ]
+  },
+  "portfolioProducts": {
+    "visible": true,
+    "sectionTitle": "Portfolio Products",
+    "items": [
+      {
+        "id": "portfolio-leader-scheduler",
+        "title": "Leader Scheduler - Meeting & Appointment Scheduling App",
+        "detailSlug": "leader-scheduler-meeting-appointment-scheduling-app",
+        "image": "/api/cms/uploads/leader-scheduler-app-icon.webp",
+        "gallery": [
+          "/api/cms/uploads/leader-scheduler-google-play-01.webp",
+          "/api/cms/uploads/leader-scheduler-google-play-02.webp",
+          "/api/cms/uploads/leader-scheduler-google-play-03.webp"
+        ],
+        "logo": "/api/cms/uploads/leader-scheduler-app-icon.webp",
+        "description": "Live productivity app for leader availability, member bookings, guest scheduling, approvals, rescheduling, and real-time notifications.",
+        "longDescription": "Leader Scheduler is a live Android productivity app for meeting scheduling, appointment booking, leader availability management, member bookings, and guest scheduling through secure links. ADT SoftTech contributed outsourced mobile app development support for the platform. Leaders can create custom time slots, organize events, approve or reject booking requests, and reschedule meetings. Members can view available slots and book meetings, while guests can schedule appointments through secure shared links. Real-time notifications keep users informed about bookings, approvals, reschedules, and schedule changes.",
+        "tags": [
+          "Mobile App",
+          "Scheduling App",
+          "Productivity App",
+          "Appointment Booking",
+          "Real-Time Notifications",
+          "Android App",
+          "Outsourced Development",
+          "Google Play Store"
+        ],
+        "category": "Mobile App Development / Outsourced Development Support",
+        "ctaText": "Open App on Google Play",
+        "ctaLink": "https://play.google.com/store/apps/details?id=com.app.leaderschedulers",
+        "link": "https://play.google.com/store/apps/details?id=com.app.leaderschedulers",
+        "status": "Live on Google Play",
+        "seoTitle": "Leader Scheduler Meeting & Appointment Scheduling App | ADT SoftTech Portfolio",
+        "metaDescription": "Explore ADT SoftTech's outsourced mobile development contribution to Leader Scheduler, a live Android app for availability, bookings, approvals, and notifications.",
+        "focusKeyword": "Leader Scheduler meeting appointment scheduling app",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "portfolio-safa-west-transportation",
+        "title": "Safa West Transportation - Ride Booking & Driver Management App",
+        "detailSlug": "safa-west-transportation-ride-booking-driver-management-app",
+        "image": "/api/cms/uploads/safa-west-transportation-mobile-app-cover.png",
+        "gallery": [],
+        "description": "Commissioned two-sided transportation app ecosystem with rider booking, driver trip management, real-time tracking, scheduled rides, payments, and Google Play deployment.",
+        "longDescription": "Safa West Transportation is a live two-sided Android app ecosystem developed by the ADT SoftTech team as an outsourced development engagement. The solution includes a dedicated rider app for booking immediate and scheduled trips, adding multiple destinations, tracking drivers, using secure payment options, and reviewing ride history. It also includes a driver app for authorized drivers to manage on-demand and scheduled requests, accept or decline trips, use navigation support, receive real-time notifications, and review completed trips and earnings. This commissioned product demonstrates our team's ability to build structured mobile workflows for transportation operations while supporting a clearer digital experience for customers and drivers.",
+        "tags": [
+          "Mobile App",
+          "Transportation App",
+          "Ride Booking",
+          "Driver Management",
+          "Real-Time Tracking",
+          "Android App",
+          "Outsourced Development",
+          "Google Play Store"
+        ],
+        "category": "Mobile App Development / Outsourced Development Contribution",
+        "ctaText": "Open Rider App on Google Play",
+        "ctaLink": "https://play.google.com/store/apps/details?id=com.swt.rider.app&pcampaignid=web_share",
+        "secondaryCtaText": "Open Driver App on Google Play",
+        "secondaryCtaLink": "https://play.google.com/store/apps/details?id=com.swt.driver&pcampaignid=web_share",
+        "link": "https://play.google.com/store/apps/details?id=com.swt.rider.app&pcampaignid=web_share",
+        "status": "Live on Google Play",
+        "seoTitle": "Safa West Transportation Ride Booking & Driver App | ADT SoftTech Portfolio",
+        "metaDescription": "Explore ADT SoftTech's outsourced development contribution to Safa West Transportation: live rider booking and driver management Android apps with tracking, scheduling, payments, and navigation.",
+        "focusKeyword": "transportation ride booking driver management Android app development",
+        "visible": true,
+        "order": 2
+      }
+    ]
+  },
+  "liveProjects": {
+    "visible": true,
+    "sectionTitle": "Live Projects",
+    "items": []
+  },
+  "seo": {
+    "metaTitle": "AI Products | ADT SoftTech",
+    "metaDescription": "Explore ADT SoftTech AI products including Support AI Agent, Business Analytics Agent, HR Screening Agent, Automation Assistant, and AI Knowledge Bot.",
+    "keywords": "AI products, support AI agent, analytics agent, HR screening AI, knowledge bot",
+    "canonical": "/products",
+    "robots": "index, follow",
+    "ogTitle": "ADT SoftTech AI Products",
+    "ogDescription": "Practical AI agents for support, analytics, HR, automation, and knowledge management.",
+    "ogImage": "",
+    "twitterTitle": "ADT SoftTech AI Products",
+    "twitterDescription": "AI products for modern business workflows.",
+    "twitterImage": ""
+  }
+}

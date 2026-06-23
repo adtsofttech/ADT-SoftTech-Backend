@@ -1,0 +1,17 @@
+[
+  { "code": "en", "name": "English", "nativeName": "English", "direction": "ltr", "isDefault": true, "isEnabled": true, "order": 0, "flag": "🇺🇸" },
+  { "code": "ar", "name": "Arabic", "nativeName": "العربية", "direction": "rtl", "isDefault": false, "isEnabled": true, "order": 1, "flag": "🇦🇪" },
+  { "code": "fr", "name": "French", "nativeName": "Français", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 2, "flag": "🇫🇷" },
+  { "code": "it", "name": "Italian", "nativeName": "Italiano", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 3, "flag": "🇮🇹" },
+  { "code": "es", "name": "Spanish", "nativeName": "Español", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 4, "flag": "🇪🇸" },
+  { "code": "de", "name": "German", "nativeName": "Deutsch", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 5, "flag": "🇩🇪" },
+  { "code": "pt", "name": "Portuguese", "nativeName": "Português", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 6, "flag": "🇵🇹" },
+  { "code": "tr", "name": "Turkish", "nativeName": "Türkçe", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 7, "flag": "🇹🇷" },
+  { "code": "ja", "name": "Japanese", "nativeName": "日本語", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 8, "flag": "🇯🇵" },
+  { "code": "ko", "name": "Korean", "nativeName": "한국어", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 9, "flag": "🇰🇷" },
+  { "code": "zh", "name": "Chinese", "nativeName": "中文", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 10, "flag": "🇨🇳" },
+  { "code": "ru", "name": "Russian", "nativeName": "Русский", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 11, "flag": "🇷🇺" },
+  { "code": "id", "name": "Indonesian", "nativeName": "Bahasa Indonesia", "direction": "ltr", "isDefault": false, "isEnabled": true, "order": 12, "flag": "🇮🇩" },
+  { "code": "fa", "name": "Persian", "nativeName": "فارسی", "direction": "rtl", "isDefault": false, "isEnabled": true, "order": 13, "flag": "🇮🇷" },
+  { "code": "ur", "name": "Urdu", "nativeName": "اردو", "direction": "rtl", "isDefault": false, "isEnabled": true, "order": 14, "flag": "🇵🇰" }
+]

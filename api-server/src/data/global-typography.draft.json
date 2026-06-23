@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "status": "published",
+    "lastSavedAt": "2026-06-02T12:40:00.000Z",
+    "publishedAt": "2026-06-02T12:40:00.000Z"
+  },
+  "preset": "modern-saas",
+  "fonts": {
+    "heading": "Poppins",
+    "body": "Inter",
+    "ui": "Inter",
+    "button": "Inter"
+  },
+  "sizes": {
+    "hero": "clamp(2.1rem, 1.45rem + 2.8vw, 3.75rem)",
+    "pageTitle": "clamp(1.9rem, 1.47rem + 1.85vw, 3rem)",
+    "sectionTitle": "clamp(1.6rem, 1.35rem + 1.05vw, 2.35rem)",
+    "cardTitle": "1.125rem",
+    "subtitle": "clamp(1rem, 0.97rem + 0.13vw, 1.125rem)",
+    "bodyLarge": "clamp(1rem, 0.97rem + 0.13vw, 1.125rem)",
+    "body": "1rem",
+    "bodySmall": "0.875rem",
+    "caption": "0.75rem",
+    "badge": "0.75rem",
+    "nav": "0.875rem",
+    "footer": "0.875rem",
+    "button": "0.875rem",
+    "formLabel": "0.75rem",
+    "input": "0.875rem"
+  },
+  "weights": {
+    "heading": "700",
+    "body": "400",
+    "button": "500",
+    "cardTitle": "700",
+    "badge": "600"
+  },
+  "lineHeights": {
+    "heading": "1.16",
+    "body": "1.625",
+    "button": "1.25"
+  },
+  "tracking": {
+    "heading": "0em",
+    "button": "0em",
+    "badge": "0.025em"
+  }
+}

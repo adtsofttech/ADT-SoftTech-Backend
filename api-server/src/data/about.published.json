@@ -1,0 +1,196 @@
+{
+  "_meta": {
+    "status": "published",
+    "lastSavedAt": "2026-06-04T03:09:25.528Z",
+    "publishedAt": "2026-06-04T03:09:25.528Z"
+  },
+  "hero": {
+    "visible": true,
+    "badge": "Analytics | Development  | Transformation",
+    "heading": "Building Intelligent",
+    "headingHighlight": "Digital Systems",
+    "headingSuffix": "with Data, AI, and Analytics",
+    "description": "ADT SoftTech is an AI and software development company specializing in data analytics, automation, and intelligent systems that help startups, individuals, SMEs, and enterprises scale and innovate.",
+    "image": "/api/cms/uploads/Brand_Logo_1780542557285.gif",
+    "buttons": [
+      {
+        "id": "b1",
+        "text": "Our Services",
+        "link": "/services",
+        "variant": "primary",
+        "visible": true
+      },
+      {
+        "id": "b2",
+        "text": "Contact Us",
+        "link": "/contact",
+        "variant": "outline",
+        "visible": true
+      },
+      {
+        "id": "bb2nalzd",
+        "text": "Solutions",
+        "link": "/portfolio",
+        "variant": "primary",
+        "visible": true
+      }
+    ]
+  },
+  "missionVision": {
+    "visible": true,
+    "items": [
+      {
+        "id": "mv1",
+        "title": "Our Mission",
+        "description": "To build intelligent software systems using AI, data analytics, and automation that help businesses make smarter decisions and scale efficiently.",
+        "icon": "Target",
+        "borderColor": "border-l-primary",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "mv2",
+        "title": "Our Vision",
+        "description": "To become a global leader in AI-powered digital transformation, enabling startups, enterprises, and small businesses to grow through digital systems, data, and automation.",
+        "icon": "Zap",
+        "borderColor": "border-l-secondary",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "mv3",
+        "title": "Why ADT",
+        "description": "Analytics, Development, and Transformation come together in every solution: clear data, reliable engineering, and measurable business improvement.",
+        "icon": "Compass",
+        "borderColor": "border-l-cyan-400",
+        "visible": true,
+        "order": 2
+      }
+    ]
+  },
+  "founders": {
+    "visible": true,
+    "sectionTitle": "Meet the Founders",
+    "sectionSubtitle": "The technical minds behind ADT SoftTech.",
+    "items": [
+      {
+        "id": "f1",
+        "name": "Rana Muhammad Tehseen",
+        "role": "Founder & CEO",
+        "subtitle": "AI Systems ? Data Analytics ? Automation ? Business Intelligence",
+        "photo": "/team-tehseen.png",
+        "initials": "RT",
+        "description": "Leads product strategy, AI development, analytics systems, automation architecture, and decision-making solutions for ADT SoftTech clients.",
+        "linkedinUrl": "https://www.linkedin.com/in/rm-tehseen-dataanalyst/",
+        "portraitGradient": "from-blue-500 via-cyan-400 to-indigo-600",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "f2",
+        "name": "Allah Ditta Saim",
+        "role": "Co-Founder & CTO",
+        "subtitle": "Flutter ? Firebase ? Backend Systems ? API Integration",
+        "photo": "/team-saim.jpeg",
+        "initials": "AS",
+        "description": "Leads technical architecture, app development, backend systems, API integration, and scalable mobile and web application delivery.",
+        "linkedinUrl": "https://www.linkedin.com/in/allah-ditta-saim-flutter-developer/",
+        "portraitGradient": "from-purple-500 via-pink-400 to-orange-500",
+        "visible": true,
+        "order": 1
+      }
+    ]
+  },
+  "team": {
+    "visible": false,
+    "sectionTitle": "Our Team",
+    "items": []
+  },
+  "stats": {
+    "visible": true,
+    "sectionTitle": "Why Choose ADT SoftTech",
+    "items": [
+      {
+        "id": "as1",
+        "value": "Proven",
+        "label": "Track record solving real business challenges",
+        "icon": "Award",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "as2",
+        "value": "Skilled",
+        "label": "AI, analytics, automation, mobile, and software team",
+        "icon": "Users",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "as3",
+        "value": "Global",
+        "label": "Connections across Canada, KSA, UAE, and Pakistan",
+        "icon": "TrendingUp",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "as4",
+        "value": "Flexible",
+        "label": "Dedicated teams, fixed-price projects, and hourly support",
+        "icon": "Clock",
+        "visible": true,
+        "order": 3
+      }
+    ]
+  },
+  "values": {
+    "visible": true,
+    "sectionTitle": "Core Values",
+    "items": [
+      {
+        "id": "v1",
+        "title": "Client Value",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "v2",
+        "title": "People Driven",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "v3",
+        "title": "Integrity",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "v4",
+        "title": "Accountability",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "v5",
+        "title": "Collaboration",
+        "visible": true,
+        "order": 4
+      }
+    ]
+  },
+  "seo": {
+    "metaTitle": "About ADT SoftTech | Analytics, Development & Transformation",
+    "metaDescription": "Learn about ADT SoftTech, an AI, analytics, automation, web, and mobile software development company founded by Rana Muhammad Tehseen and Allah Ditta Saim.",
+    "keywords": "about ADT SoftTech, AI company, analytics development transformation",
+    "canonical": "/about",
+    "robots": "index, follow",
+    "ogTitle": "About ADT SoftTech",
+    "ogDescription": "Analytics ? Development ? Transformation.",
+    "ogImage": "",
+    "twitterTitle": "About ADT SoftTech",
+    "twitterDescription": "AI and software company building intelligent digital systems.",
+    "twitterImage": ""
+  }
+}
