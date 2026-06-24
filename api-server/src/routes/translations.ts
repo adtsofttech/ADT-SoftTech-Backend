@@ -7,11 +7,15 @@ const router = Router();
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const TRANS_DIR = path.join(__dirname, "../data/translations");
 
-const NAMESPACES = ["common", "home", "about", "services", "products", "admin"] as const;
+const NAMESPACES = ["common", "home", "about", "services", "products", "admin", "articles", "free-services", "portfolio", "cms"] as const;
 type Namespace = (typeof NAMESPACES)[number];
 
+function safeSegment(value: string) {
+  return value.toLowerCase().trim().replace(/[^a-z0-9_-]/g, "");
+}
+
 function translationPath(locale: string, ns: string) {
-  return path.join(TRANS_DIR, locale, `${ns}.json`);
+  return path.join(TRANS_DIR, safeSegment(locale), `${safeSegment(ns)}.json`);
 }
 
 function readTranslation(locale: string, ns: string): Record<string, unknown> {
@@ -61,6 +65,10 @@ router.get("/:locale", (req, res) => {
 
 router.get("/:locale/:ns", (req, res) => {
   const { locale, ns } = req.params;
+  if (!NAMESPACES.includes(ns as Namespace)) {
+    res.status(400).json({ error: "Invalid namespace" });
+    return;
+  }
   res.json(readTranslation(locale, ns));
 });
 
@@ -76,6 +84,10 @@ router.put("/:locale/:ns", (req, res) => {
 
 router.post("/:locale/:ns/key", (req, res) => {
   const { locale, ns } = req.params;
+  if (!NAMESPACES.includes(ns as Namespace)) {
+    res.status(400).json({ error: "Invalid namespace" });
+    return;
+  }
   const { key, value } = req.body;
   const data = readTranslation(locale, ns);
   data[key] = value;
@@ -85,6 +97,10 @@ router.post("/:locale/:ns/key", (req, res) => {
 
 router.delete("/:locale/:ns/key/:key", (req, res) => {
   const { locale, ns } = req.params;
+  if (!NAMESPACES.includes(ns as Namespace)) {
+    res.status(400).json({ error: "Invalid namespace" });
+    return;
+  }
   const key = decodeURIComponent(req.params.key);
   const data = readTranslation(locale, ns);
   delete data[key];

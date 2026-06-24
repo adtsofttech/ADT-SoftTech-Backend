@@ -1,0 +1,79 @@
+{
+  "home": {
+    "hero": {
+      "badge": "سافٹ ویئر انجینئرنگ، ڈیٹا اور AI انٹیلیجنس",
+      "heading": "AI، اینالیٹکس اور آٹومیشن کے ساتھ ذہین ڈیجیٹل سسٹمز کی تعمیر",
+      "description": "ADT SoftTech اسٹارٹ اپس، SMEs اور اداروں کو خام ڈیٹا کو قابل توسیع سافٹ ویئر، AI ایجنٹس، ڈیش بورڈز اور آٹومیشن سسٹمز میں بدلنے میں مدد دیتا ہے جو بہتر فیصلوں اور تیز ترقی کو ممکن بناتے ہیں۔",
+      "viewPortfolio": "پورٹ فولیو دیکھیں"
+    },
+    "showcase": {
+      "portfolio": "پورٹ فولیو",
+      "highlights": "جھلکیاں",
+      "subtitle": "فنانس اینالیٹکس، ریٹیل انٹیلیجنس، HR ڈیش بورڈز، ای کامرس اینالیٹکس اور پریڈکٹو ماڈلنگ میں ADT SoftTech کے کام کو دیکھیں۔",
+      "viewCaseStudies": "کیس اسٹڈیز دیکھیں",
+      "financeAnalytics": "فنانس اینالیٹکس",
+      "bankLoanDashboard": "بینک لون ڈیش بورڈ",
+      "bankLoanDashboardDescription": "لون پورٹ فولیو ڈیش بورڈ جس میں فیصلہ ریویو کی درستگی میں رپورٹ شدہ +27% بہتری شامل ہے۔",
+      "excelDashboard": "ایکسل ڈیش بورڈ",
+      "coffeeShopSalesDashboard": "کافی شاپ سیلز ڈیش بورڈ",
+      "coffeeShopSalesDashboardDescription": "ملٹی برانچ کافی شاپ سیلز ڈیش بورڈ جس میں $698,812.33 آمدنی، فٹ فال، پروڈکٹ insights اور اسٹور comparisons کا تجزیہ شامل ہے۔",
+      "predictiveAnalytics": "پریڈکٹو اینالیٹکس",
+      "customerChurnAnalysis": "کسٹمر چرن اینالیسیس",
+      "customerChurnAnalysisDescription": "گروتھ ٹیمز کے لیے retention analytics اور customer segmentation۔"
+    },
+    "freeServices": {
+      "badge": "مفت سروسز اور لیڈ میگنٹس",
+      "heading": "آغاز کریں",
+      "headingHighlight": "وضاحت کے ساتھ",
+      "description": "بلڈ شروع کرنے سے پہلے مفت مشاورت بک کریں، مسئلے کا تجزیہ حاصل کریں، حل کی تجاویز دیکھیں، اور اسٹارٹ اپ رہنمائی حاصل کریں۔",
+      "claim": "اپنی مفت سروسز حاصل کریں",
+      "emailDirectly": "براہ راست ای میل کریں",
+      "focusedDiscoveryCall": "آپ کے کاروباری چیلنج کو سمجھنے کے لیے focused discovery call۔",
+      "workflowBottlenecks": "ہم workflow، data اور software bottlenecks کی نشاندہی کرتے ہیں۔",
+      "practicalIdeas": "عملی AI، analytics، automation یا app ideas۔",
+      "techStackRoadmap": "Early-stage teams کے لیے tech stack اور roadmap guidance۔",
+      "starterResources": "Dashboards، systems اور planning کے لیے starter resources۔",
+      "learningResources": "AI، analytics اور automation سے متعلق learning resources۔"
+    },
+    "productsShowcase": {
+      "badge": "مصنوعات",
+      "title": "AI مصنوعات اور اسمارٹ بزنس اسسٹنٹس",
+      "subtitle": "ایسے نمایاں assistants جو operations، reporting، support، hiring اور internal knowledge access کو automate کرنے کے لیے بنائے گئے ہیں۔"
+    },
+    "industriesShowcase": {
+      "badge": "صنعتیں",
+      "title": "صنعتی ضروریات کے مطابق ڈیجیٹل حل",
+      "subtitle": "ہم جدید صنعتوں کی حقیقی ضروریات کے مطابق intelligent software، automation اور analytics systems ڈیزائن کرتے ہیں۔",
+      "healthcareIntro": "AI-powered healthcare dashboards، patient workflow systems، اور operational analytics۔",
+      "financeIntro": "Loan analytics، fraud monitoring، business intelligence، اور decision-support systems۔",
+      "retailIntro": "Sales analytics، store dashboards، product insights، اور inventory intelligence۔",
+      "ecommerceIntro": "Customer behavior analysis، product performance tracking، اور automation۔",
+      "educationIntro": "Learning platforms، performance dashboards، اور education analytics۔",
+      "technologyStartups": "ٹیکنالوجی اسٹارٹ اپس",
+      "technologyStartupsIntro": "MVP development، scalable SaaS platforms، اور AI-powered products۔",
+      "logisticsIntro": "Operational dashboards، tracking systems، اور workflow automation۔",
+      "hrTechIntro": "Recruitment analytics، screening workflows، اور workforce intelligence۔"
+    },
+    "portfolioShowcase": {
+      "badge": "کیس اسٹڈیز",
+      "title": "منتخب کام جو ہمارا اثر دکھاتا ہے",
+      "subtitle": "Public portfolio highlights جو analytics، intelligence اور decision-support capability دکھاتے ہیں۔"
+    },
+    "testimonials": {
+      "title": "ہمارے کلائنٹس کیا کہتے ہیں",
+      "subtitle": "حقیقی businesses کی حقیقی feedback جنہیں ہم نے transform کرنے میں مدد دی۔"
+    },
+    "industries": {
+      "sectionTitle": "وہ صنعتیں جنہیں ہم empower کرتے ہیں"
+    },
+    "footer": {
+      "description": "ADT SoftTech کا مطلب Analytics، Development اور Transformation ہے۔ ہم AI، analytics، automation، web اور mobile engineering کے ساتھ intelligent software systems بناتے ہیں۔"
+    },
+    "seo": {
+      "metaTitle": "ADT SoftTech | AI، اینالیٹکس اور سافٹ ویئر ڈویلپمنٹ کمپنی",
+      "metaDescription": "ADT SoftTech اسٹارٹ اپس، SMEs اور enterprises کے لیے AI، data analytics، automation، web development اور mobile applications کے ذریعے intelligent digital systems بناتا ہے۔",
+      "ogDescription": "AI، analytics اور automation کے ساتھ intelligent digital systems بنانا۔",
+      "twitterDescription": "AI، analytics، automation، web اور mobile software company۔"
+    }
+  }
+}

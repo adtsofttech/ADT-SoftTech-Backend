@@ -1,0 +1,79 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Software Engineering & Intelligence with Data & AI",
+      "heading": "Building Intelligent Digital Systems with AI, Analytics, and Automation",
+      "description": "ADT SoftTech helps startups, SMEs, and enterprises transform raw data into scalable software, AI agents, dashboards, and automation systems that drive smarter decisions and faster growth.",
+      "viewPortfolio": "View Portfolio"
+    },
+    "showcase": {
+      "portfolio": "Portfolio",
+      "highlights": "Highlights",
+      "subtitle": "Explore ADT SoftTech work across finance analytics, retail intelligence, HR dashboards, e-commerce analytics, and predictive modeling.",
+      "viewCaseStudies": "View Case Studies",
+      "financeAnalytics": "Finance Analytics",
+      "bankLoanDashboard": "Bank Loan Dashboard",
+      "bankLoanDashboardDescription": "Loan portfolio dashboard with reported +27% decision-review accuracy improvement.",
+      "excelDashboard": "Excel Dashboard",
+      "coffeeShopSalesDashboard": "Coffee Shop Sales Dashboard",
+      "coffeeShopSalesDashboardDescription": "Multi-branch coffee shop sales dashboard with $698,812.33 in analyzed revenue, footfall tracking, product insights, and store comparisons.",
+      "predictiveAnalytics": "Predictive Analytics",
+      "customerChurnAnalysis": "Customer Churn Analysis",
+      "customerChurnAnalysisDescription": "Retention analytics and customer segmentation for data-driven growth teams."
+    },
+    "freeServices": {
+      "badge": "Free Services & Lead Magnets",
+      "heading": "Start with",
+      "headingHighlight": "Clarity",
+      "description": "Book a free consultation, get problem analysis, explore solution suggestions, and receive startup guidance before committing to a build.",
+      "claim": "Claim Your Free Services",
+      "emailDirectly": "Email Us Directly",
+      "focusedDiscoveryCall": "A focused discovery call to understand your business challenge.",
+      "workflowBottlenecks": "We identify workflow, data, and software bottlenecks.",
+      "practicalIdeas": "Practical AI, analytics, automation, or app ideas.",
+      "techStackRoadmap": "Tech-stack and roadmap advice for early-stage teams.",
+      "starterResources": "Starter resources for dashboards, systems, and planning.",
+      "learningResources": "Learning resources around AI, analytics, and automation."
+    },
+    "productsShowcase": {
+      "badge": "Products",
+      "title": "AI Products and Smart Business Assistants",
+      "subtitle": "Featured assistants designed to automate operations, reporting, support, hiring, and internal knowledge access."
+    },
+    "industriesShowcase": {
+      "badge": "Industries",
+      "title": "Industry-Focused Digital Solutions",
+      "subtitle": "We design intelligent software, automation, and analytics systems around the real needs of modern industries.",
+      "healthcareIntro": "AI-powered healthcare dashboards, patient workflow systems, and operational analytics.",
+      "financeIntro": "Loan analytics, fraud monitoring, business intelligence, and decision-support systems.",
+      "retailIntro": "Sales analytics, store dashboards, product insights, and inventory intelligence.",
+      "ecommerceIntro": "Customer behavior analysis, product performance tracking, and automation.",
+      "educationIntro": "Learning platforms, performance dashboards, and education analytics.",
+      "technologyStartups": "Technology Startups",
+      "technologyStartupsIntro": "MVP development, scalable SaaS platforms, and AI-powered products.",
+      "logisticsIntro": "Operational dashboards, tracking systems, and workflow automation.",
+      "hrTechIntro": "Recruitment analytics, screening workflows, and workforce intelligence."
+    },
+    "portfolioShowcase": {
+      "badge": "Case Studies",
+      "title": "Selected Work That Shows Our Impact",
+      "subtitle": "Public portfolio highlights showing analytics, intelligence, and decision-support capability."
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "subtitle": "Real feedback from real businesses we've helped transform."
+    },
+    "industries": {
+      "sectionTitle": "Industries We Empower"
+    },
+    "footer": {
+      "description": "ADT SoftTech means Analytics ? Development ? Transformation. We build intelligent software systems with AI, analytics, automation, web, and mobile engineering."
+    },
+    "seo": {
+      "metaTitle": "ADT SoftTech | AI, Analytics & Software Development Company",
+      "metaDescription": "ADT SoftTech builds intelligent digital systems using AI, data analytics, automation, web development, and mobile applications for startups, SMEs, and enterprises.",
+      "ogDescription": "Building intelligent digital systems with AI, analytics, and automation.",
+      "twitterDescription": "AI, analytics, automation, web, and mobile software company."
+    }
+  }
+}
