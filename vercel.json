@@ -1,7 +1,7 @@
 {
   "version": 2,
   "installCommand": "pnpm install --frozen-lockfile",
-  "buildCommand": "pnpm run build",
+  "buildCommand": "pnpm run build:backend",
   "functions": {
     "api/[...path].ts": {
       "maxDuration": 30,
