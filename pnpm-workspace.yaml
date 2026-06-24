@@ -4,8 +4,8 @@ packages:
   - packages/*
 
 allowBuilds:
-  '@firebase/util': set this to true or false
-  protobufjs: set this to true or false
+  '@firebase/util': true
+  protobufjs: true
 
 autoInstallPeers: false
 
@@ -35,9 +35,11 @@ catalog:
 minimumReleaseAge: 1440
 
 onlyBuiltDependencies:
+  - '@firebase/util'
   - '@swc/core'
   - esbuild
   - msw
+  - protobufjs
   - unrs-resolver
 
 overrides:
