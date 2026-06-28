@@ -38,7 +38,7 @@ export async function sendBusinessEmail(payload: EmailPayload): Promise<Delivery
         subject: payload.subject,
         text: payload.text,
       }),
-    });
+    }) as unknown as { ok: boolean; status: number; text: () => Promise<string> };
 
     if (!response.ok) {
       const failureText = await response.text();

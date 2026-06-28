@@ -94,7 +94,7 @@ export async function sendWhatsAppAdminNotification(request: SupportContactReque
         "Content-Type": "application/json",
       },
       body: JSON.stringify(body),
-    });
+    }) as unknown as { ok: boolean; status: number; text: () => Promise<string> };
     if (!response.ok) {
       const failureText = await response.text();
       const safeError = failureText.slice(0, 1000);
@@ -132,7 +132,7 @@ export async function sendWhatsAppText(to: string, text: string) {
         type: "text",
         text: { preview_url: true, body: text },
       }),
-    });
+    }) as unknown as { ok: boolean; status: number; text: () => Promise<string> };
     if (!response.ok) {
       const failureText = await response.text();
       return { status: "failed" as const, error: `WhatsApp API ${response.status}: ${failureText.slice(0, 1000)}` };

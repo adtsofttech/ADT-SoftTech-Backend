@@ -131,7 +131,7 @@ async function forwardToGa4(event: any) {
         },
       }],
     }),
-  });
+  }) as unknown as { ok: boolean; status: number };
   return { skipped: false, ok: response.ok, status: response.status };
 }
 
