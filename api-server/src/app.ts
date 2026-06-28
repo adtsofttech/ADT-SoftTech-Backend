@@ -4,7 +4,7 @@ import cookieParser from "cookie-parser";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import router from "./routes";
+import router from "./routes/index.js";
 import sitemapRouter from "./routes/sitemap.js";
 import { allowedCorsOrigins } from "./lib/http-security.js";
 

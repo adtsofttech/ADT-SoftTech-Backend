@@ -1,8 +1,8 @@
 import { Router, type IRouter } from "express";
-import healthRouter from "./health";
-import cmsRouter from "./cms";
-import languagesRouter from "./languages";
-import translationsRouter from "./translations";
+import healthRouter from "./health.js";
+import cmsRouter from "./cms.js";
+import languagesRouter from "./languages.js";
+import translationsRouter from "./translations.js";
 import contentRouter from "./content/index.js";
 import sitemapRouter from "./sitemap.js";
 import analyticsRouter from "./analytics.js";

@@ -1,5 +1,5 @@
 import "./load-local-env";
-import app from "./app";
+import app from "./app.js";
 
 const rawPort = process.env["PORT"] || "3000";
 
